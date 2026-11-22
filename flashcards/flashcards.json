@@ -1,0 +1,3002 @@
+[
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "出生前のリスク評価で、蘇生の必要性を予測するために確認する情報を挙げよ。",
+    "back": "在胎週数、羊水の状態、胎児心拍数パターン、多胎の有無、母体合併症などを確認する。これらから児の状態を予測し、準備の程度を決める。",
+    "id": 1
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "リスク因子がない分娩では、蘇生の準備は不要か。",
+    "back": "不要ではない。予期しない仮死も起こるため、すべての分娩で蘇生を行える準備と、人員を確保する方法を決めておく必要がある。",
+    "id": 2
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "出生前に羊水の状態を確認する理由は何か。",
+    "back": "羊水の状態は児の予想される状態の手がかりになり、必要な準備と人員、応援要請の判断に役立つため、事前に確認しておく。",
+    "id": 3
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "多胎の分娩では蘇生の準備をどう考えるか。",
+    "back": "児ごとに蘇生を行える体制が必要になるため、児の数に応じた物品と人員を準備し、ブリーフィングで役割を確認する。",
+    "id": 4
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "出生前に予想された児の状態を準備にどう生かすか。",
+    "back": "蘇生が必要になる可能性が高いほど、人員、物品、応援要請の方法を手厚く整え、役割分担を事前に確認しておく。",
+    "id": 5
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "2025年版アルゴリズムのブリーフィングのボックスにある項目は何か。",
+    "back": "役割分担と物品確認の2項目。2020年版にあった感染予防の文言は、役割分担の表記に変更された。",
+    "id": 6
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "2025年版で感染予防の文言がブリーフィングから削除された理由は何か。",
+    "back": "感染症対策は各施設のマニュアルに従って行うため。蘇生のチームパフォーマンスには役割分担が重要なので、そちらを入れた。",
+    "id": 7
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "ブリーフィングで確認する母体の情報には何があるか。",
+    "back": "児に影響する母体感染症と、蘇生に関わる母体情報。短時間に確認してチームで共有する。",
+    "id": 8
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "ブリーフィングで役割分担を決める目的は何か。",
+    "back": "誰が評価し誰が介入を行うかを明確にするため。チームパフォーマンスを高め、high performanceな蘇生の実践につながる。",
+    "id": 9
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "早期母子接触やルーチンケアの場所は、いつ確認するか。",
+    "back": "ブリーフィング中に確認する。母親の胸腹部でルーチンケアを行うかなどは、最終的に母親にも確認することが医療安全上も重要。",
+    "id": 10
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "蘇生の準備で、保温のために用意するものは何か。",
+    "back": "保温の設備（ラジアントウォーマー）、乾いたタオル、早産児ではプラスチックバッグまたはラップとキャップなどを用意する。",
+    "id": 11
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "人工呼吸のデバイスとして、どのようなものを準備するか。",
+    "back": "バッグとマスク、またはTピース蘇生器。Tピースを使う場合も、ガス源の不備に備えて自己膨張式バッグをバックアップとして準備する。",
+    "id": 12
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "分娩室で心拍の評価に望ましいモニタは何か。",
+    "back": "心電図モニタ。使えない場合は、パルスオキシメータと聴診で心拍を評価する。SpO2モニタも事前に準備しておく。",
+    "id": 13
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "2025年版アルゴリズムで縦軸に追加された項目は何か。",
+    "back": "応援要請の検討。体温維持に加えて追加され、人員が少ない現場で応援要請が遅れないようにするための項目である。",
+    "id": 14
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "応援要請の検討が追加された背景は何か。",
+    "back": "ローリスク分娩では新生児担当が1から2名のことが多く、十分な人員がいないと応援要請のタイミングが遅れるおそれがあるため。",
+    "id": 15
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "応援要請についてブリーフィングで何を確認するか。",
+    "back": "どのような状態の時に、どのような方法で、誰が応援要請を行うかを確認する。応援が参加できるまでの時間も考慮する。",
+    "id": 16
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "応援要請の方法を決めるとき、考慮すべき時間の要素は何か。",
+    "back": "応援がどの程度の時間で参加できるか。到着までに時間がかかるほど、要請のタイミングを早く考える必要がある。",
+    "id": 17
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "NCPR講習会の演習と実際のローリスク分娩の人員の違いは何か。",
+    "back": "講習会では3名1組で行うことが多いが、実際のローリスク分娩では担当が1名のこともあるため、応援要請の備えが必要になる。",
+    "id": 18
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "蘇生チームの役割分担で、あらかじめ決めておく担当は何か。",
+    "back": "リーダー、気道と換気の担当、心拍とSpO2のモニタ担当、記録担当など。誰が評価し誰が介入するかを明確にしておく。",
+    "id": 19
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "蘇生チームでリーダーが担う役割は何か。",
+    "back": "全体の状況を把握して評価と介入の判断を行い、チームに指示を出す。各担当の動きを調整して蘇生を進める。",
+    "id": 20
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "蘇生中、指示を受けた担当者が行うべきことは何か。",
+    "back": "指示を復唱して確認し、実施したら報告する。聞き間違いや実施漏れを防ぎ、チームの安全性を高める。",
+    "id": 21
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "蘇生中に記録担当を置く利点は何か。",
+    "back": "時刻、処置、心拍やSpO2などを正確に残せる。評価と介入を繰り返すときの振り返りや、蘇生後の引き継ぎに役立つ。",
+    "id": 22
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "誰が評価し介入するかを明確にすることの意義は何か。",
+    "back": "役割の重複や抜けを防ぎ、人工呼吸を遅れなく始めて中断を最小限にするなど、high performanceな蘇生につながる。",
+    "id": 23
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "分娩前に両親へ説明しておく内容は何か。",
+    "back": "蘇生が必要になる可能性と、その場合に行う処置の概要。事前に説明しておくと、児の状態が変わっても両親が理解しやすい。",
+    "id": 24
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "臍帯管理の計画は、いつ誰で話し合うのが望ましいか。",
+    "back": "可能な限り分娩前に、産科と新生児科または小児科の医療従事者と両親で話し合い、母体と児の状況を考慮して決める。",
+    "id": 25
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "新生児の徐脈と心停止の原因は多くが何か。",
+    "back": "低酸素性（呼吸原性）である。そのため蘇生では、酸素化を回復させる有効な人工呼吸が最も重要になる。",
+    "id": 26
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "新生児蘇生のゴールは何か。",
+    "back": "死亡を含む神経学的後障害を予防し、新生児集中治療につなげる脳蘇生がゴールである。",
+    "id": 27
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "新生児蘇生で最も重要な手技は何か。",
+    "back": "換気（人工呼吸）である。成人では胸骨圧迫が最も重要だが、新生児蘇生では人工呼吸に置き換えて考える。",
+    "id": 28
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "胸骨圧迫が必要な児では、蘇生をどう行うか。",
+    "back": "高濃度酸素を使った人工呼吸に胸骨圧迫を連動させる。人工呼吸、酸素、胸骨圧迫の3つを並列に行い、酸素の投与忘れを防ぐ。",
+    "id": 29
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "2025年版アルゴリズムで評価と介入の項目は変更されたか。",
+    "back": "変更されていない。現場で必要な情報に絞ってスリム化し、声門上気道デバイスの補足などを付記した。",
+    "id": 30
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "蘇生後のケアと観察で確認する四つの項目は何か。",
+    "back": "呼吸、心拍、SpO2、体温。2025年版アルゴリズムでは蘇生後のケアと観察の箱に具体的な項目として追加された。",
+    "id": 31
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "ルーチンケアの三つの基本は何か。",
+    "back": "保温、気道の開通、皮膚の乾燥である。出生直後から行い、呼吸と活気の観察を続けることが大切である。",
+    "id": 32
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "ルーチンケアを母親のそばで行う意義は何か。",
+    "back": "母子関係の確立に重要である。ただし観察を怠らず、変化があれば蘇生の流れに進める状態を保つ。",
+    "id": 33
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "2025年版でルーチンケアの「母親の側で」が削除された理由は。",
+    "back": "場所は施設の構造に依存するため。早期母子接触などはブリーフィングで確認し、母親にも確認することが重要である。",
+    "id": 34
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "活気のない正期産児と後期早産児への結紮前ミルキングのJRCの立場は。",
+    "back": "推奨も否定もしない。日本で普及しておらず、臍帯処置のために人工呼吸が遅れることも懸念されるため。",
+    "id": 35
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "在胎28週未満の早産児の臍帯結紮前ミルキングについてJRCは何を提案するか。",
+    "back": "行わないことを提案する（弱い推奨）。低い確実性ながら重症IVH増加のエビデンスがあるためである。",
+    "id": 36
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "在胎28週未満の早産児で臍帯結紮後のミルキングについてJRC2025はどう考えるか。",
+    "back": "妥当である。蘇生が不要なら、結紮後ミルキングの代わりに60秒以上の臍帯遅延結紮を行ってもよい。",
+    "id": 37
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "清明羊水で生まれた児の口と鼻の吸引はどう考えるか。",
+    "back": "ルーチンには行わないことを提案する。吸引そのものより、保温や呼吸の評価など必要な初期対応を優先する。",
+    "id": 38
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "口や鼻の吸引を考えるのはどのような状況か。",
+    "back": "分泌物などで気道の開通が妨げられている場合。ルーチンの吸引ではなく、必要な時に気道開通のために行う。",
+    "id": 39
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "皮膚刺激を行っても呼吸が改善しないときの原則は何か。",
+    "back": "皮膚刺激で人工呼吸の開始を遅らせない。呼吸がない、断続的、浅い呼吸が続けば遅れず人工呼吸を始める。",
+    "id": 40
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "初期処置の中で皮膚刺激はどう位置づけられるか。",
+    "back": "保温、体位保持、気道開通、皮膚乾燥と刺激の一つ。短時間で行い、人工呼吸の開始を遅らせてはならない。",
+    "id": 41
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "母児皮膚接触ができない状況でのILCORの提案は何か。",
+    "back": "正常体温を維持するため、プラスチックバッグまたはラップの使用を検討することを提案する。",
+    "id": 42
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "出生直後の乾燥と保温を行う目的は何か。",
+    "back": "低体温の予防。新生児蘇生の基本は、低体温を予防しつつ遅延なく人工呼吸を始めることである。",
+    "id": 43
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "意図せず低体温となった児の復温で注意することは何か。",
+    "back": "復温速度は定まらないが、プロトコール使用、高体温を避ける頻回な体温測定、血糖値のモニタリングが妥当である。",
+    "id": 44
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "34週未満の早産児の呼吸補助での加温加湿ガスの提案条件は。",
+    "back": "入院時低体温が問題で、かつ資源が許す場合に使用を提案する（条件付きの弱い推奨）。",
+    "id": 45
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "2025年版アルゴリズムで心拍の評価ボックスの表記はどう変わったか。",
+    "back": "「心拍」の表記に統一し、「数確認」を削除した。◇は評価のボックスなので、動詞を付けない表記にした。",
+    "id": 46
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "自発呼吸があり呼吸障害のある児のCPAPについてJRCの見解は。",
+    "back": "必要に応じてCPAPまたは酸素投与を実施するアルゴリズムを変更しない。ルーチン使用の可否を示す十分なエビデンスはない。",
+    "id": 47
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "2025年版でローリスク分娩の対応として加わった項目は何か。",
+    "back": "縦軸の体温管理に加えて応援要請の検討が加わった。担当者が1から2名のことが多く、要請が遅れないようにするためである。",
+    "id": 48
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "出生直後に確認する三つの評価項目は何か。",
+    "back": "早産児か、弱い呼吸か啼泣か、筋緊張の低下はないか、の三つです。この三項目で、ルーチンケアか蘇生の流れかを最初に判断します。",
+    "id": 49
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "出生直後の三項目がすべて良好だった児は、どちらの流れに進むか。",
+    "back": "ルーチンケアに進みます。早産児でなく、強い呼吸か啼泣があり、筋緊張が良好であれば、母親のそばで保温と観察を続けます。",
+    "id": 50
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "出生直後の三項目のうち一つでも当てはまった児は、どう対応するか。",
+    "back": "蘇生の流れに進みます。保温、体位保持、気道開通、皮膚乾燥と刺激の初期処置を行い、そのあと呼吸と心拍を評価します。",
+    "id": 51
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "出生直後の三項目の評価で、筋緊張に関して何を見るか。",
+    "back": "筋緊張の低下がないかを見ます。ぐったりして四肢の屈曲がない児は、三項目の一つに当てはまり、蘇生の流れの対象になります。",
+    "id": 52
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "ルーチンケアに含まれる基本の処置を三つ挙げよ。",
+    "back": "保温、気道の開通（必要時のみ）、皮膚の乾燥です。これらを行いながら、呼吸や活気、体温の観察を怠らないことが大切です。",
+    "id": 53
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "母児皮膚接触を行うときの注意点は何か。",
+    "back": "児を乾燥させ保温したうえで行い、顔色、呼吸、筋緊張を継続して観察します。母親の胸の上でも、状態の急変に気づく体制が必要です。",
+    "id": 54
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "ルーチンケア中に呼吸や活気の異常に気づいたらどうするか。",
+    "back": "ただちに蘇生の流れへ戻って評価します。ルーチンケアは観察をやめる状態ではなく、状態が変わればいつでも移行します。",
+    "id": 55
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "34週以上で蘇生が不要な児の臍帯管理に関するJRC2025の見解は。",
+    "back": "60秒以上の臍帯遅延結紮は、日本ではエビデンスが不十分なため推奨も否定もしません。黄疸の増加が懸念されることが背景にあります。",
+    "id": 56
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "34週以上の児で臍帯遅延結紮が推奨も否定もされない理由の一つは何か。",
+    "back": "多血症や光線療法の増加と関連し、日本人は黄疸のリスクが高く、入院期間の延長が懸念されるためです。",
+    "id": 57
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "28週未満の早産児の臍帯管理で、JRC2025が行わないことを提案する手技は。",
+    "back": "臍帯結紮前の臍帯ミルキングです。重症の脳室内出血が増える可能性があるためで、結紮後のミルキングは妥当とされています。",
+    "id": 58
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "35週未満の早産児に臍帯遅延結紮を行うときに整えておくべきことは何か。",
+    "back": "臍帯結紮中の児の保温と、児の状態観察に関する対策です。また、分娩前に産科と新生児科と両親で臍帯管理の計画を話し合います。",
+    "id": 59
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "清明羊水で出生した児に、口と鼻の吸引をどうするか。",
+    "back": "ルーチンには行いません。胎便性羊水混濁があっても活気のある児には、同様に口と鼻の吸引をルーチンには行いません。",
+    "id": 60
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "清明羊水の児の口と鼻の吸引をルーチンに行わない理由は何か。",
+    "back": "吸引の有益性を示すエビデンスがないためです。不要な吸引は刺激となり、人工呼吸や保温などの大切な処置を遅らせるおそれがあります。",
+    "id": 61
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "口と鼻の吸引が必要になるのはどのような場面か。",
+    "back": "分泌物や羊水が気道を妨げ、呼吸が困難な場合です。そのときは気道開通のために必要な範囲で吸引を行います。",
+    "id": 62
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "呼吸がない、または断続的か浅い呼吸の児に、初期対応でどのような刺激を行うか。",
+    "back": "保温などの初期処置に加えて、背中や足底をこするなどの皮膚刺激を行います。皮膚刺激は合理的であると提案されています。",
+    "id": 63
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "皮膚刺激を行っても呼吸が続かない児で、人工呼吸の開始をどうするか。",
+    "back": "刺激に時間をかけて人工呼吸の開始を遅らせてはいけません。皮膚刺激を続けても改善しなければ、すぐに人工呼吸を始めます。",
+    "id": 64
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "初期処置で皮膚刺激を行う目的は何か。",
+    "back": "呼吸を促すためです。ただし刺激は短時間にとどめ、呼吸が確立しない場合は遅れなく次の処置へ進むことが重要です。",
+    "id": 65
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "34週以上の児の分娩室で、ILCORが提案する室温の目安は。",
+    "back": "20℃ではなく23℃以上です。出生直後の低体温を防ぎ、正常体温を維持することを目的としています。",
+    "id": 66
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "出生直後の児の体温管理で、まず行う基本の対応は何か。",
+    "back": "児を速やかに乾燥させ、乾いたタオルなどで包んで保温します。低体温の予防が新生児蘇生の基本の一つです。",
+    "id": 67
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "母児皮膚接触が実施できないとき、保温のために何を検討するか。",
+    "back": "プラスチックバッグまたはラップの使用を検討します。蘇生が必要な児では、放射式加温器の下で保温を行います。",
+    "id": 68
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "出生直後の呼吸の観察で、蘇生の流れの対象になる呼吸の状態は何か。",
+    "back": "呼吸がない、断続的、または浅い呼吸の状態です。強い呼吸か啼泣があることが、ルーチンケアの条件の一つになります。",
+    "id": 69
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "アプガースコアと、出生直後の三項目の評価の使い方の違いは何か。",
+    "back": "アプガースコアの採点を待たずに、出生直後の三項目で直ちに判断します。蘇生の要否は、1分後の点数ではなく三項目で決めます。",
+    "id": 70
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "努力呼吸のある児の観察で、呼吸障害を示す所見には何があるか。",
+    "back": "陥没呼吸、呻吟、鼻翼呼吸などです。これらがあれば呼吸障害を疑い、SpO2モニタの装着とCPAPまたは酸素投与を検討します。",
+    "id": 71
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "チアノーゼの評価で、SpO2モニタを装着する目的は何か。",
+    "back": "酸素化の状態を客観的に確認するためです。目で見る色だけでは判断が難しく、SpO2の目標値と比べて酸素投与を検討します。",
+    "id": 72
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "自発呼吸があり呼吸障害のある児に、CPAPの扱いはどうなっているか。",
+    "back": "必要に応じてCPAPまたは酸素投与を行います。ルーチンに使う、または使わない、と決めるだけのエビデンスは十分ではありません。",
+    "id": 73
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "ローリスク分娩で、新生児を担当する人員が少ないときに追加された考え方は。",
+    "back": "応援要請の検討です。ブリーフィングで、どのような状態のときに誰がどの方法で応援を要請するかを確認しておきます。",
+    "id": 74
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "蘇生の流れが進んだ後、ルーチンケアに戻ってよいのはどのようなときか。",
+    "back": "呼吸と心拍とSpO2が安定し、蘇生後のケアと観察で問題がないと評価できたときです。以後も観察を続けます。",
+    "id": 75
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "出生前の備えとして、ブリーフィングで確認する二つの項目は何か。",
+    "back": "役割分担と物品の確認です。2025年版では感染予防の文言が役割分担の表記に変わり、この二項目になりました。",
+    "id": 76
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "早産児の出生直後の初期対応で、通常の児と異なる点は何か。",
+    "back": "体温が下がりやすいため、保温をより重視します。34週未満では、ラップやバッグに加え、頭部をおおう対応が必要です。",
+    "id": 77
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "34週未満の早産児が入院時に低体温となる場合に、さらに検討できる保温の工夫は何か。",
+    "back": "保温マットレスの追加を検討するのは合理的ですが、高体温のリスクがあるため、体温を頻回に確認する必要があります。",
+    "id": 78
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "初期処置を行う順序を答えよ。",
+    "back": "まず保温して体温低下を防ぎ、次に体位保持と気道開通を行い、皮膚の乾燥と刺激で自発呼吸を促す。低体温予防が最優先。",
+    "id": 79
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "初期処置にかける時間の目安はどれくらいか。",
+    "back": "約30秒。ここで評価に進み、有効な呼吸がなければ生後60秒以内に人工呼吸を始めるため、初期処置に時間をかけすぎない。",
+    "id": 80
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "初期処置が必要になるのは出生直後のどんなときか。",
+    "back": "早産児、弱い呼吸か啼泣、筋緊張低下の3つのうち1つでも当てはまるとき。すべて問題なければルーチンケアに進む。",
+    "id": 81
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "初期処置のあとに必ず評価する2項目は何か。",
+    "back": "呼吸と心拍。評価結果によって、人工呼吸、CPAPや酸素投与、観察のどれに進むかを決める。",
+    "id": 82
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "強すぎる吸引や長い吸引を避けるのはなぜか。",
+    "back": "粘膜を傷つけ、迷走神経反射による徐脈や無呼吸を起こすことがある。また人工呼吸の開始を遅らせる原因にもなる。",
+    "id": 83
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "胎便汚染の児に気管吸引をルーチンにしない理由は何か。",
+    "back": "有益性を示す根拠が乏しく、気管吸引で人工呼吸の開始が遅れる害が大きいため。必要性は児の状態で個別に判断する。",
+    "id": 84
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "自発呼吸を促すための皮膚刺激の具体的な方法は。",
+    "back": "足底を軽くたたく、背中を軽くこするなどの穏やかな刺激。体を拭く動作自体も刺激になる。強い刺激や乱暴な刺激は行わない。",
+    "id": 85
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "刺激しても有効な呼吸が得られないとき、どう判断するか。",
+    "back": "刺激を続けて時間を使わず、人工呼吸の開始を遅らせない。皮膚刺激は短時間にとどめ、すぐ評価に進むことが重要である。",
+    "id": 86
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "保温するときに高体温にも注意が必要なのはなぜか。",
+    "back": "加温しすぎは高体温を招き、児に害となるため。ラジアントウォーマや保温マットレス使用時は体温を頻回にモニタする。",
+    "id": 87
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "ゴールデンミニットとは何を指すか。",
+    "back": "生後60秒以内に有効な人工呼吸を開始するという考え方。初期処置と評価を手早く行い、無駄な時間を作らないことを意味する。",
+    "id": 88
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "ゴールデンミニットを無駄にしやすい行動の例を挙げよ。",
+    "back": "必要のない口鼻や気管の吸引、長引く皮膚刺激、準備不足による物品探しなど。これらは人工呼吸の開始を遅らせる。",
+    "id": 89
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "蘇生を必要とするリスクが低い児の保温はどうするか。",
+    "back": "在胎34週以上で低リスクの児は、出生直後の母児皮膚接触で保温を図る。できないときはプラスチックバッグやラップを検討する。",
+    "id": 90
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "蘇生の初期処置に含まれる四つの項目は何か。",
+    "back": "保温、体位保持、気道開通（必要なら吸引）、皮膚乾燥と刺激の四つです。これで呼吸を促し、効果がなければ人工呼吸へ進みます。",
+    "id": 91
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "蘇生の初期処置は生後どのくらいの時間で終えて評価するか。",
+    "back": "約30秒以内に行い、その後に呼吸と心拍を評価します。初期処置に時間をかけすぎると有効な人工呼吸の開始が遅れるためです。",
+    "id": 92
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "初期処置で最初に行うべき保温が重要な理由は何か。",
+    "back": "低体温は酸素消費を増やし、肺の拡張や循環を悪化させるためです。新生児蘇生の基本は低体温を予防しつつ換気を遅らせないことです。",
+    "id": 93
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "スニッフィングポジションとはどのような体位か。",
+    "back": "頭部を中間位にして、頸部を軽く伸展させ、鼻先をやや上向きにした姿勢です。気道が最も開通しやすくなります。",
+    "id": 94
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "体位保持で肩枕を使う目的は何か。",
+    "back": "新生児は後頭部が大きく頸部が屈曲しやすいため、肩の下に薄い枕を入れて頸部の屈曲を防ぎ、気道を開通させるためです。",
+    "id": 95
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "頸部を過伸展や過屈曲にしてはいけない理由は何か。",
+    "back": "どちらも気道が狭くなり、人工呼吸や自発呼吸の妨げになるためです。頭部は中間位から軽い伸展にとどめます。",
+    "id": 96
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "口腔と鼻腔の吸引はどのような児に行うか。",
+    "back": "気道に分泌物や羊水がたまり、呼吸の妨げになっている児に必要なときだけ行います。清明羊水の児にはルーチンの吸引を行いません。",
+    "id": 97
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "清明羊水で出生した児にルーチンの口鼻吸引をしない理由は何か。",
+    "back": "吸引の効果を示す根拠が乏しく、刺激による徐脈や換気開始の遅れが心配されるためです。ガイドライン2025でも同じ考え方です。",
+    "id": 98
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "口腔と鼻腔の吸引で強い吸引を避けるべき理由は何か。",
+    "back": "強く長い吸引は粘膜の損傷や迷走神経反射による徐脈、低酸素を招くおそれがあるためです。短時間で穏やかに行います。",
+    "id": 99
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "吸引を行う際、口と鼻はどちらから吸引するのが基本か。",
+    "back": "口腔を先に吸引し、次に鼻腔を吸引します。鼻を先に刺激して児が吸気し、口の分泌物を吸い込むのを防ぐためです。",
+    "id": 100
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "胎便で汚染された羊水から出生した活気のある児への対応は何か。",
+    "back": "清明羊水と同様にルーチンケアを行い、ルーチンの気管吸引はしません。活気とは強い呼吸か啼泣、良好な筋緊張です。",
+    "id": 101
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "胎便汚染羊水で活気のない児に最優先で行うことは何か。",
+    "back": "保温と体位保持など初期処置を行い、呼吸が不十分なら遅れずに人工呼吸を開始します。気管吸引のために蘇生を遅らせてはいけません。",
+    "id": 102
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "胎便汚染羊水の児に対する気管吸引の位置づけはどうなったか。",
+    "back": "全例へのルーチンの気管吸引は行わない考え方です。人工呼吸の開始を遅らせないことが優先で、必要時のみ個別に判断します。",
+    "id": 103
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "皮膚の乾燥は何を使ってどのように行うか。",
+    "back": "温めた乾いたタオルで全身、特に頭部をよく拭き、濡れたタオルは取り除きます。蒸発による熱喪失を防ぐためです。",
+    "id": 104
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "皮膚の乾燥を行うことが刺激にもなる理由は何か。",
+    "back": "タオルで拭く動作自体が触覚刺激になり、呼吸を促すためです。拭いた後は濡れた布をのけて乾いた布に包みます。",
+    "id": 105
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "呼吸を促す刺激として代表的な方法を二つ挙げよ。",
+    "back": "足底を軽くたたく、または弾く方法と、背中を軽くこする方法です。強すぎる刺激や長い刺激は避けます。",
+    "id": 106
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "刺激を行っても呼吸がない、または弱い児の判断は何か。",
+    "back": "刺激を続けず、遅れずに人工呼吸を開始します。刺激は初期処置の一部であり、効果がなければ換気に進むことが重要です。",
+    "id": 107
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "初期処置後の評価で確認する項目は何か。",
+    "back": "呼吸と心拍を確認します。評価の結果によって、観察を続けるか、人工呼吸などの介入に進むかを決めます。",
+    "id": 108
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "初期処置後に無呼吸、または心拍が100回/分未満のときはどうするか。",
+    "back": "遅れずに人工呼吸を開始し、SpO2モニタを装着します。換気は新生児蘇生で最も重要な手技です。",
+    "id": 109
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "初期処置後に自発呼吸があり、努力呼吸やチアノーゼがあるときの対応は何か。",
+    "back": "SpO2モニタを装着し、必要に応じてCPAPまたは酸素投与を行います。心拍と呼吸の観察も続けます。",
+    "id": 110
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "ラジアントウォーマを使う理由は何か。",
+    "back": "児を裸にして処置しても熱喪失を防ぎ、蘇生に手を使いやすくするためです。事前にブリーフィングで予熱しておきます。",
+    "id": 111
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "ラジアントウォーマで体温管理するとき高体温に注意する理由は何か。",
+    "back": "過度の加温は高体温を招き、呼吸抑制や神経学的な予後悪化のおそれがあるためです。体温を測り、低体温も高体温も避けます。",
+    "id": 112
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "在胎34週未満の早産児の保温でプラスチックバッグやラップを使う理由は何か。",
+    "back": "濡れたまま包み、乾燥せずに蒸発による熱喪失を防げるためで、ILCORが強く推奨しています。頭部はキャップなどで覆います。",
+    "id": 113
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "ゴールデンミニットの間に時間を無駄にする行動の例は何か。",
+    "back": "過度な吸引、長い刺激の繰り返し、器具探しなどです。換気が必要な児には、準備を済ませておき遅れずに人工呼吸を始めます。",
+    "id": 114
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "人工呼吸を開始する条件を2つの場合に分けて答えよ。",
+    "back": "無呼吸またはあえぎ呼吸の場合、または心拍が100/分未満の場合に開始する。初期処置で改善しない呼吸の異常が目安である。",
+    "id": 115
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "初期処置後に呼吸が不十分な児で人工呼吸を遅らせない理由は何か。",
+    "back": "新生児の徐脈や心停止の多くは低酸素性であり、換気の遅れが直接悪化につながるため。遅延なき人工呼吸の開始が蘇生の基本である。",
+    "id": 116
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "皮膚刺激を続けても呼吸がない児に対し、どう対応するか。",
+    "back": "皮膚刺激のために人工呼吸の開始を遅らせない。無呼吸やあえぎ呼吸が続くなら直ちに人工呼吸を始める。",
+    "id": 117
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "人工呼吸のリズムを声に出してとる目的は何か。",
+    "back": "回数を40から60回/分に保ち、バッグを押す、離すの間隔を一定にするため。チーム内で速さを共有する効果もある。",
+    "id": 118
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "人工呼吸が行えているとき、まず何を見て確認するか。",
+    "back": "胸の上がりを確認する。胸が上がる最小限の圧で換気するのが目標で、同時に心拍の上昇も見て効果を判断する。",
+    "id": 119
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "適切なマスクの大きさの目安はどのようなものか。",
+    "back": "児の口と鼻を覆い、目や顎にかからない大きさを選ぶ。小さすぎると鼻を塞ぎ、大きすぎると空気漏れの原因になる。",
+    "id": 120
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "マスク換気で下顎を保持する意味は何か。",
+    "back": "下顎を持ち上げて保持すると舌根が前方に動き、気道が開通しやすくなる。軟部組織を圧迫しないよう顎の骨の部分を持つ。",
+    "id": 121
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "マスク換気で空気漏れを起こしやすい場面は何か。",
+    "back": "マスクの当て方が不適切なとき、特にマスクの縁が顔から浮いた状態や位置のずれ。MR. SOPAのMでマスクを当て直して調整する。",
+    "id": 122
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "人工呼吸が有効であることを示す所見を3つ挙げよ。",
+    "back": "胸の上がり、心拍の上昇、SpO2の上昇である。このうち心拍の上昇が最も重要な改善の指標とされる。",
+    "id": 123
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "人工呼吸中に有効な換気が得られないとき使う手順は何か。",
+    "back": "MR. SOPAを順に確認する。マスク調整、体位修正、吸引、口を開ける、圧の上昇、気道確保の代替手段の順である。",
+    "id": 124
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "MR. SOPAのPとAは何を意味するか。",
+    "back": "Pは圧の上昇（必要に応じて吸気圧を上げる）、Aは気道確保の代替手段（気管挿管または声門上気道デバイス）である。",
+    "id": 125
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "MR. SOPAでPの圧の上昇は、手順のどこに位置するか。",
+    "back": "マスク、体位、吸引、口を開けるの調整をした後に行う。まず漏れや閉塞の原因を除き、なお胸が上がらないとき圧を上げる。",
+    "id": 126
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "自己膨張式バッグの特徴として正しいものは何か。",
+    "back": "ガス源がなくても自分で膨らみ換気できる。わが国で最も普及している。リザーバを付け、酸素を流して使うと高い濃度が得られる。",
+    "id": 127
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "ILCORが資源のある場面でTピース蘇生器を提案する対象は何か。",
+    "back": "出生時に陽圧換気を受ける児に対し、自己膨張式バッグより提案される。ただし弱い推奨で、JRCは特定機器の推奨は困難としている。",
+    "id": 128
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "自己膨張式バッグでの換気時、過剰な圧を避ける理由は何か。",
+    "back": "過大な圧は肺を傷め、特に早産児で肺損傷や気胸の危険が高まる。胸が上がる最小限の圧と回数で換気する。",
+    "id": 129
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "PEEPバルブの有無について、バッグの扱いで何に注意するか。",
+    "back": "PEEPバルブ付きかどうかを使用前に確認する。ILCORはバルブの有無について推奨できるだけの十分な根拠はないとしている。",
+    "id": 130
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "早産児の人工呼吸で特に気をつける肺への配慮は何か。",
+    "back": "肺が未熟で傷つきやすいため、過剰な圧と一回換気量を避ける。胸が上がる最小限の圧を使い、必要に応じPEEPで肺の虚脱を防ぐ。",
+    "id": 131
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "早産児でPEEPを使う意味は何か。",
+    "back": "呼気終末にも一定の圧を保ち、肺胞の虚脱を防いで肺の拡張を保つため。未熟な肺ではとくに有用な考え方である。",
+    "id": 132
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "マスクで長く人工呼吸を続けるとき、胃管を考える理由は何か。",
+    "back": "マスク換気で空気が胃に入り腹部が膨らむと横隔膜が上がり、換気が妨げられる。胃管で空気を抜くと換気しやすくなる。",
+    "id": 133
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "胃管を入れるとき、人工呼吸との関係でどう考えるか。",
+    "back": "人工呼吸の中断は最小限にする。胃管の挿入のために換気を長く止めず、必要時は手際よく行うか、役割分担で対応する。",
+    "id": 134
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "人工呼吸を始めたのに胸が上がらず改善しないとき、気管挿管以外の代替手段は何か。",
+    "back": "声門上気道デバイスを挿管の代替として検討してよい。マスク換気がうまくいかず挿管もできない場面で妥当とされる。",
+    "id": 135
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "声門上気道デバイスが気管挿管と異なる利点として挙げられる点は何か。",
+    "back": "医師以外の看護師や助産師も挿入できる点である。わが国では普及が遅れており、各施設での導入が望まれている。",
+    "id": 136
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "有効な換気が得られない児に対し、原因を考える際の基本は何か。",
+    "back": "まずMR. SOPAでマスク、体位、吸引などの原因を確認し、改善しなければ気道確保の代替手段を考える。換気の確立が最優先である。",
+    "id": 137
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "人工呼吸を始めて30秒後に何を評価するか。",
+    "back": "心拍を評価する。SpO2モニタも装着し、換気が有効かを確認する。心拍が60/分未満なら胸骨圧迫の準備に進む。",
+    "id": 138
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "有効な換気を確保しても心拍が60/分未満のとき、どうするか。",
+    "back": "人工呼吸、酸素、胸骨圧迫を並行して行う。胸骨圧迫の前に有効な換気の確保に努めることが重要である。",
+    "id": 139
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "出生後の人工呼吸を開始する呼吸の状態はどのような場合か。",
+    "back": "無呼吸やあえぎ呼吸（有効な呼吸がない）の場合に開始する。初期処置後に呼吸が不十分なままなら、時間をおかずに人工呼吸へ進む。",
+    "id": 140
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "初期処置後に心拍が100/分未満のとき、次に行う処置は何か。",
+    "back": "人工呼吸を開始する。徐脈の多くは低酸素が原因であり、有効な換気で酸素化と心拍の回復を図ることが蘇生の中心だからである。",
+    "id": 141
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "人工呼吸の開始は、生後どのくらいまでを目標にするか。",
+    "back": "生後60秒以内（ゴールデンミニット）の開始を目標にする。保温、体位保持、気道開通、乾燥と刺激を手際よく行い、遅らせない。",
+    "id": 142
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "皮膚刺激を続けても呼吸がないとき、人工呼吸を遅らせてよいか。",
+    "back": "遅らせてはいけない。刺激を長く続けて人工呼吸の開始が遅れることは避ける。蘇生の基本は遅延なき人工呼吸の開始である。",
+    "id": 143
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "新生児蘇生法で、人工呼吸の基本は何を最優先にするか。",
+    "back": "低体温を防ぎながら、遅延なく開始し、有効な人工呼吸を早く確立し、自発呼吸が戻るまで中断を最小限にすること。新生児蘇生は換気が最も重要。",
+    "id": 144
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "人工呼吸の回数は1分間に何回が基本か。",
+    "back": "40から60回/分である。成人の人工呼吸より速く、1回ごとに胸の上がりを確認しながら行う。",
+    "id": 145
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "人工呼吸のリズムを保つために声に出して唱える方法を説明せよ。",
+    "back": "「押す、2、3」のように声に出してテンポをとる方法がある。40から60回/分の速さを保ちやすく、送気と間隔のリズムが乱れない。",
+    "id": 146
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "人工呼吸を始めたとき、最初に確認すべき所見は何か。",
+    "back": "胸が上がっているか（換気できているか）を確認する。胸の上がりは有効な換気の最初の目安で、同時に心拍の上昇も評価する。",
+    "id": 147
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "人工呼吸中、胸が上がりすぎる送気を避けるのはなぜか。",
+    "back": "過剰な圧や量は未熟な肺を傷める恐れがあるためである。胸が軽く上がる程度の圧で、必要以上に強く押さない。",
+    "id": 148
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "フェイスマスクの大きさの選び方を述べよ。",
+    "back": "鼻と口を覆い、目や顎を圧迫しない大きさを選ぶ。小さすぎると鼻や口が覆えず、大きすぎると目を圧迫し、空気漏れも起きやすい。",
+    "id": 149
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "マスクを当てるとき、顔を強く押さえつけないのはなぜか。",
+    "back": "強く押すと顔や目を傷つけたり、気道を閉塞させたりするためである。顔に密着させつつ、下顎を持ち上げる形で保持する。",
+    "id": 150
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "マスク換気で空気漏れを防ぐ保持の要点は何か。",
+    "back": "マスクを鼻と口にぴったり当て、下顎を持ち上げて保持する。漏れがあると送気が肺に届かず、胸が上がらない原因となる。",
+    "id": 151
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "有効な人工呼吸ができているかを確認する指標を3つ挙げよ。",
+    "back": "胸の上がり、心拍の上昇、SpO2の上昇である。最も大切なのは心拍の上昇で、有効な換気がなされると心拍が速やかに増える。",
+    "id": 152
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "人工呼吸で心拍が上がらないとき、まず何を点検するか。",
+    "back": "有効な換気ができているかを点検する。胸が上がっていなければ、MR. SOPAの手順で換気を改善する。",
+    "id": 153
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "MR. SOPAの順序を守る理由は何か。",
+    "back": "簡単で確実に行える手技から順に見直し、胸の上がらない原因を速やかに取り除くためである。最後に代替の気道確保を考える。",
+    "id": 154
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "人工呼吸に用いる主なデバイスを3つ挙げよ。",
+    "back": "自己膨張式バッグ、流量膨張式バッグ、Tピース蘇生器である。日本では自己膨張式バッグが最も普及している。",
+    "id": 155
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "自己膨張式バッグの特徴を述べよ。",
+    "back": "ガス源がなくても、バッグを押せば換気できる。ガス源不備の場合にも使えるため、他のデバイスを使う施設でも備えておく。",
+    "id": 156
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "流量膨張式バッグの使用上の注意は何か。",
+    "back": "ガス源が必要で、マスクの密着が悪いと膨らまない。扱いに習熟が必要で、圧の調整も練習が求められる。",
+    "id": 157
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "Tピース蘇生器の特徴を述べよ。",
+    "back": "ガス源に接続して使い、設定した圧で送気できる。ガス源が使えない状況に備え、自己膨張式バッグを必ず用意しておく。",
+    "id": 158
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "Tピース蘇生器を使うとき、バックアップとして何を準備するか。",
+    "back": "自己膨張式バッグを準備する。ガス源の不備や故障で使えなくなっても、換気を途切れさせないためである。",
+    "id": 159
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "自己膨張式バッグで高濃度の酸素を送るために必要なものは何か。",
+    "back": "リザーバを付け、酸素を十分な流量で流すことである。リザーバがないと、供給できる酸素濃度が低くなる。",
+    "id": 160
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "自己膨張式バッグでPEEPバルブを使うときの注意は何か。",
+    "back": "PEEPバルブの有無で送気の特性が変わるため、使う器具の特性を知っておく。圧が過剰にならないよう、胸の上がりを見て調整する。",
+    "id": 161
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "人工呼吸中の酸素について、通常の考え方を述べよ。",
+    "back": "酸素ブレンダを使って濃度を調整し、SpO2が目標値に近づくよう増減する。心拍とSpO2を見て、改善がなければ酸素投与を検討する。",
+    "id": 162
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "出生後のSpO2目標値は、1分から5分でどう変わるか。",
+    "back": "1分で60%、2分で65%、3分で70%、4分で75%、5分で80%を目標とし、10分で90%以上になる。生後は徐々に上昇する。",
+    "id": 163
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "早産児の人工呼吸で注意することは何か。",
+    "back": "未熟な肺は傷みやすいため、過剰な圧や量を避ける。胸の動きを見て送気圧を調整し、PEEPを用いた換気を考える。",
+    "id": 164
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "早産児の蘇生で、体温管理を併せて行う理由は何か。",
+    "back": "低体温は早産児の予後を悪くするためである。プラスチックバッグやラップ、帽子などで保温し、人工呼吸と並行して行う。",
+    "id": 165
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "人工呼吸が長引くとき、胃管を挿入する考え方を述べよ。",
+    "back": "マスク換気が続くと胃にガスが入り、腹部膨満を起こすことがある。膨満があれば胃管で空気を抜くが、換気を長く止めない。",
+    "id": 166
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "胃管の挿入や処置で、人工呼吸をどう扱うか。",
+    "back": "人工呼吸の中断は最小限にとどめる。自発呼吸が戻るまで有効な換気を続けることが優先で、処置のために長く止めない。",
+    "id": 167
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "CPAPの適応となるのはどのような児か。",
+    "back": "自発呼吸があり、努力呼吸やチアノーゼなどの呼吸障害がある児である。無呼吸の児には適応にならず、人工呼吸が必要となる。",
+    "id": 168
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "呼吸障害のある児で、CPAPや酸素投与をどう使い分けるか。",
+    "back": "自発呼吸があるときは、必要に応じてCPAPまたは酸素投与を行う。アルゴリズムのこの流れは2025年も変更されていない。",
+    "id": 169
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "CPAPや酸素投与で改善しないとき、次に進む処置は何か。",
+    "back": "人工呼吸へ進む。努力呼吸やチアノーゼ、SpO2の低下が続けば、換気の補助を強めることを考える。",
+    "id": 170
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "人工呼吸を30秒行った後、何を評価するか。",
+    "back": "心拍を評価する。心拍が100/分以上なら人工呼吸を続けて自発呼吸を待ち、60/分未満なら胸骨圧迫が必要になる。",
+    "id": 171
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "新生児蘇生で心拍を評価する主な方法を三つ挙げるとどうなるか。",
+    "back": "聴診、臍帯の拍動の触知、心電図モニタの三つです。蘇生が必要な児では、心拍を速く確実に把握することが次の判断の土台になります。",
+    "id": 172
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "分娩室で蘇生が必要な児の心拍評価に、心電図モニタが勧められる理由は何か。",
+    "back": "聴診やパルスオキシメータより心拍を連続して客観的に確認でき、ILCORも合理的と提案しているためです。ただし利用できる施設に限られます。",
+    "id": 173
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "心電図モニタが使えないとき、心拍はどう評価するか。",
+    "back": "パルスオキシメータと聴診による評価が合理的な代替手段です。ただし、それぞれの方法に限界があることを理解して使う必要があります。",
+    "id": 174
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "臍帯の拍動で心拍を見るときの注意点は何か。",
+    "back": "臍帯の拍動は触れない場合でも心拍がないとは言えず、数が低く見積もられることがあります。触れないときは聴診などで確認します。",
+    "id": 175
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "聴診で心拍を確認するときは、どこにどのように当てるか。",
+    "back": "児の胸部に聴診器を当てて心音を聞き、短時間で心拍の速さを判断します。評価に時間をかけすぎて人工呼吸が遅れないようにします。",
+    "id": 176
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "SpO2プローブを装着するのは児のどの部位か。",
+    "back": "右手首または右手掌です。動脈管より前の血液の酸素飽和度（プレダクタル値）を測るためで、目標値もこの値を基準にします。",
+    "id": 177
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "プレダクタル値とは何か。なぜ右上肢で測るのか。",
+    "back": "動脈管より前の血液のSpO2のことです。右上肢は動脈管より手前の血流を受けるため、脳などに送られる血液の酸素化を反映します。",
+    "id": 178
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "SpO2モニタを装着するとき、児への装着とモニタ（ケーブル）への接続はどちらを先に行うか。",
+    "back": "先にプローブを児の右手首または手掌に装着し、その後にモニタのケーブルへ接続します。こうすると値が早く表示されます。",
+    "id": 179
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "SpO2モニタは蘇生のどの場面で装着を考えるか。",
+    "back": "人工呼吸を行うとき、努力呼吸やチアノーゼが続くときなど、酸素化の評価が必要な場面です。装着のために人工呼吸を遅らせてはいけません。",
+    "id": 180
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "生後4分と5分の目標SpO2はそれぞれどの値か。",
+    "back": "4分は75%以上、5分は80%以上です。経過時間ごとの目標値を、SpO2の実測値と見比べて酸素投与の必要性を判断します。",
+    "id": 181
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "生後10分の目標SpO2はどの値か。",
+    "back": "90%以上です。出生後10分ごろには、正常な新生児の多くが90%以上に達することを目標にします。",
+    "id": 182
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "出生直後のSpO2が成人より低くても、正常範囲であるのはなぜか。",
+    "back": "胎児循環から新生児循環へ移行する途中であり、動脈管などを介した短絡が残るためです。数分かけて徐々に上昇するのが正常な経過です。",
+    "id": 183
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "心拍が100回/分以上のとき、次に何を評価するか。",
+    "back": "呼吸の状態（努力呼吸やチアノーゼの有無）を評価します。心拍が保たれていれば、人工呼吸の必要性は呼吸の状態で判断します。",
+    "id": 184
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "心拍が60回/分以上100回/分未満のとき、どう対応するか。",
+    "back": "有効な人工呼吸を行い、換気が適切か確認します。胸骨圧迫に進むのは60/分未満の場合なので、まず換気の質を確保します。",
+    "id": 185
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "心拍が60回/分未満になったとき、どの処置を加えるか。",
+    "back": "有効な人工呼吸を確保したうえで、酸素を使用し、胸骨圧迫を加えます。人工呼吸と胸骨圧迫は3対1の比で連動させます。",
+    "id": 186
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "心拍が60回/分未満でも、すぐ胸骨圧迫を始めない理由は何か。",
+    "back": "徐脈の原因の多くは低酸素のためで、まず有効な換気の確保が先です。換気が不十分なまま圧迫しても心拍は改善しにくいためです。",
+    "id": 187
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "心拍が100回/分を超えているのに呼吸が弱いとき、まず優先するのは何か。",
+    "back": "人工呼吸です。呼吸が不十分なら、心拍が保たれていても、遅れずに有効な換気を行い、その後の反応を評価します。",
+    "id": 188
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "新生児蘇生で、心拍が最も重要な指標とされる理由は何か。",
+    "back": "心拍の上昇が蘇生の反応を最もよく示すためです。人工呼吸が有効なら、まず心拍が増加し、その後に皮膚色などが改善します。",
+    "id": 189
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "パルスオキシメータで心拍を見るときの限界は何か。",
+    "back": "装着して値が安定するまで時間がかかること、低灌流や徐脈では値が出にくく不正確になることです。波形や値の信頼性を確認します。",
+    "id": 190
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "心電図モニタを使う場合、電極装着で注意すべきことは何か。",
+    "back": "電極装着のために人工呼吸や保温を遅らせないことです。心電図は心拍の補助で、蘇生の基本手順の遅れにつながらないようにします。",
+    "id": 191
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "聴診による心拍評価の限界は何か。",
+    "back": "短時間の測定では数え誤りが起きやすく、周囲の雑音や換気中は聞き取りにくいことです。他のモニタと併用して確認します。",
+    "id": 192
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "心電図で電気活動があるのに心拍が確認できないとき、何を疑うか。",
+    "back": "無脈性電気活動（PEA）です。波形があっても有効な心拍出がないため、聴診などで心拍を確認し、心停止に準じた対応を考えます。",
+    "id": 193
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "低灌流の状態でSpO2の値が不正確になるのはなぜか。",
+    "back": "末梢の血流が少ないと、プローブが脈波をうまく拾えず、値が出ない、または誤って低く表示されることがあるためです。",
+    "id": 194
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "SpO2が目標値に届かないとき、まず何を検討するか。",
+    "back": "酸素投与を検討します。ただし、その前に換気が有効か（胸の上がり、マスクの密着、気道の確保）を確認することが基本です。",
+    "id": 195
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "SpO2が低いときに、酸素を増やす前に確認すべき換気の点は何か。",
+    "back": "マスクの密着、頭の位置と気道の開通、胸の上がりです。換気が不十分なまま酸素濃度だけ上げても、酸素化は改善しません。",
+    "id": 196
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "酸素濃度を調整するとき、過剰な酸素を避ける理由は何か。",
+    "back": "高濃度酸素は酸化ストレスなどの害が心配されるためです。SpO2を見ながら必要最小限になるよう、増減を調整します。",
+    "id": 197
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "SpO2が目標値を大きく超えたとき、酸素はどうするか。",
+    "back": "酸素濃度を下げる方向で調整します。目標値の範囲に保つことが大切で、必要以上の高値を維持する理由はありません。",
+    "id": 198
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "ILCORが在胎32週未満の児に勧める初期の酸素濃度はどうか。",
+    "back": "30%以上の酸素で蘇生を開始することは合理的と提案されています。その後はSpO2と心拍を見ながら酸素濃度を調整します。",
+    "id": 199
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "2025年に撤回された、正期産児の初期酸素濃度に関する推奨は何か。",
+    "back": "「100%の初期酸素濃度で蘇生を開始しないこと」の推奨が、エビデンスの確実性不足を理由に暫定的に撤回されました。",
+    "id": 200
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "胸骨圧迫を行うとき、酸素について何に注意するか。",
+    "back": "人工呼吸、酸素、胸骨圧迫を並列の動作として実施し、酸素の投与を忘れないことです。2025年版アルゴリズムでも強調されています。",
+    "id": 201
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "人工呼吸を始めたのに心拍が上がらないとき、まず何を疑うか。",
+    "back": "換気が有効でないことです。胸の上がり、マスクの密着、気道の確保を確認し、必要ならMR. SOPAに沿って換気を見直します。",
+    "id": 202
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "人工呼吸中に胸が上がらないとき、何を見直すか。",
+    "back": "MR. SOPAの順に、マスクの密着、体位、口腔内の吸引、口を開ける、圧の上げ、代替気道を確認します。有効な換気の確立が目標です。",
+    "id": 203
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "SpO2が上がらず、心拍も改善しないとき、モニタ以外に何を確認するか。",
+    "back": "胸の上がり、呼吸音、顔色や筋緊張などの臨床所見です。モニタの値だけでなく、児の状態を合わせて判断します。",
+    "id": 204
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "モニタの値と臨床所見が食い違うとき、どう判断するか。",
+    "back": "センサーの装着や波形を確認し、児の呼吸や顔色などの所見も合わせて判断します。一つの数値だけで安心したり判断したりしません。",
+    "id": 205
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "心拍が改善しても、SpO2が低いままの児にどう対応するか。",
+    "back": "有効な換気を続けながら、酸素投与を検討します。心拍の改善は換気の効果を示しますが、酸素化が十分とは限らないためです。",
+    "id": 206
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "心拍もSpO2も目標に達したあとは、何を続けるか。",
+    "back": "蘇生後のケアと観察を続けます。呼吸、心拍、SpO2、体温を継続して確認し、状態が変わればすぐに評価し直します。",
+    "id": 207
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "モニタの装着や評価に時間がかかるときの、基本的な優先順位は何か。",
+    "back": "有効な人工呼吸の開始と維持が最優先です。モニタの装着で換気が遅れないよう、役割分担を決めて同時並行で進めます。",
+    "id": 208
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸骨圧迫の圧迫部位はどこか。",
+    "back": "胸骨の下3分の1を圧迫する。上すぎると心臓を十分に圧迫できず、剣状突起は圧迫しないよう位置を確認する。",
+    "id": 209
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "2025年版アルゴリズムで1サイクルは何秒とするか。",
+    "back": "圧迫3回と人工呼吸1回を2秒間で1サイクルとして行う。速さを保つことで1分間に人工呼吸30回、圧迫90回となる。",
+    "id": 210
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸骨圧迫を始めたとき、酸素はどうするか。",
+    "back": "人工呼吸、酸素、胸骨圧迫を同列に行い、高濃度酸素を使用した人工呼吸と連動させる。酸素投与の忘れを防ぐため並列表記された。",
+    "id": 211
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "二本指法はどのような場面で使うか。",
+    "back": "胸郭包み込み両母指圧迫法が行いにくいときの方法で、片手の二本指で胸骨下3分の1を圧迫する。母指法の方が望ましい。",
+    "id": 212
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸骨圧迫中に起こしやすい誤りを一つ挙げよ。",
+    "back": "圧迫の戻りで指や母指が胸から離れる、または戻しが不十分になること。位置ずれと深さ不足にもつながるので注意する。",
+    "id": 213
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "ブリーフィングで胸骨圧迫に備えて決めることは何か。",
+    "back": "誰が評価と介入を行うかという役割分担と、物品の確認。応援要請の方法や担当者も事前に確認しておく。",
+    "id": 214
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸骨圧迫中の心拍評価はいつ行うか。",
+    "back": "胸骨圧迫開始後約60秒で心拍を評価する。評価のための中断は短くする。",
+    "id": 215
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "心拍が60/分以上でも人工呼吸を続ける理由は。",
+    "back": "心拍が戻っても自発呼吸が不十分なことが多く、低酸素の再燃を防ぐため。換気を続けて呼吸の確立を確認する。",
+    "id": 216
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "アドレナリン静注の用量はどれか。",
+    "back": "0.01から0.03 mg/kgを静注する。胸骨圧迫と有効な換気を続けても心拍が60/分未満のときに投与を検討する。",
+    "id": 217
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "圧迫を始める前に気管挿管または声門上気道デバイスを考えるのはなぜか。",
+    "back": "有効な換気の確保が最優先のため。マスクとバッグで困難なら、挿管の代替として声門上気道デバイスを検討してもよい。",
+    "id": 218
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "新生児のCPRで人工呼吸を重視する理由は何か。",
+    "back": "新生児の徐脈や心停止の多くは低酸素性（呼吸原性）だから。成人のような圧迫中心ではなく、換気の確立が核心になる。",
+    "id": 219
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "成人BLSと新生児蘇生の比率の違いは何か。",
+    "back": "新生児は圧迫3回に換気1回の3対1。成人BLSは圧迫の比率が高く、新生児ではより換気の割合が大きい。",
+    "id": 220
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸骨圧迫開始の基準で成人BLSとどう違うか。",
+    "back": "新生児は有効な人工呼吸30秒後も心拍60/分未満が基準。成人は反応と呼吸がなければ直ちに圧迫を開始する点が違う。",
+    "id": 221
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸骨圧迫開始後の心拍モニタには何を使うのが合理的か。",
+    "back": "心電図モニタが使えれば合理的。使えない場合は、パルスオキシメータと聴診による心拍評価が代替手段になる。",
+    "id": 222
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "心拍を一時中断して確認するときの注意は何か。",
+    "back": "確認の中断を最小限に短くする。心停止が疑われるPEAでは、聴診あるいは聴診とパルスオキシメータの併用で心拍を確認する。",
+    "id": 223
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸骨圧迫を開始する条件は何ですか。",
+    "back": "有効な人工呼吸を30秒行っても心拍が60/分未満のときに開始します。心停止や重い徐脈の多くは低酸素が原因のため、まず換気を優先します。",
+    "id": 224
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸骨圧迫に進む前に、必ず確認すべきことは何ですか。",
+    "back": "有効な換気が確保できているかを確認します。胸が上がらない換気のまま圧迫しても効果が乏しいため、MR. SOPAで換気を見直します。",
+    "id": 225
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸骨圧迫を行う部位はどこですか。",
+    "back": "胸骨の下3分の1です。上すぎると効果が落ち、剣状突起に近すぎると肝臓などを傷める危険があるため、位置の確認が大切です。",
+    "id": 226
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸骨圧迫の深さの目安はどれくらいですか。",
+    "back": "胸郭の前後径の約3分の1が沈む深さです。浅いと十分な血流が得られず、深すぎると胸部や臓器の損傷につながります。",
+    "id": 227
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "新生児蘇生での人工呼吸と胸骨圧迫の比はいくつですか。",
+    "back": "人工呼吸1回に対して胸骨圧迫3回、つまり3対1です。新生児は呼吸原性の心停止が多く、換気の比重を高くしているためです。",
+    "id": 228
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "「2秒間を1サイクル」とはどういう意味ですか。",
+    "back": "圧迫3回と人工呼吸1回の計4動作を2秒で行うという意味です。1分間では人工呼吸約30回、胸骨圧迫約90回の速さになります。",
+    "id": 229
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸骨圧迫を行っている間の酸素濃度はどうしますか。",
+    "back": "高濃度酸素を用いた人工呼吸を行い、人工呼吸、酸素、胸骨圧迫の三つを並行して行います。圧迫中は酸素投与を忘れないことが重要です。",
+    "id": 230
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸郭包み込み両母指圧迫法とはどのような方法ですか。",
+    "back": "両手で胸郭を包み、両母指を胸骨の下3分の1に当てて圧迫する方法です。安定して深さを保ちやすく、一般に推奨される手技です。",
+    "id": 231
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸郭包み込み両母指圧迫法で、よくある誤りは何ですか。",
+    "back": "圧迫の合間に母指を胸から離してしまう、母指の位置がずれる、強く押しすぎることです。圧迫後は胸郭が十分に戻るようにします。",
+    "id": 232
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "二本指法はどのようなときに考える方法ですか。",
+    "back": "両母指法が行いにくい場面で用いる別法です。位置と深さは同じ基準で行いますが、手技が安定しにくいため、基本は両母指法です。",
+    "id": 233
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸骨圧迫中の基本的な役割分担を挙げてください。",
+    "back": "圧迫者、換気者、そして心拍やSpO2を見るモニタ担当です。ブリーフィングで誰が何をするかを決めておくと遅れなく動けます。",
+    "id": 234
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "圧迫者と換気者の呼吸合わせで大切なことは何ですか。",
+    "back": "圧迫者が「1、2、3、換気」のように声を出して合図し、圧迫と人工呼吸のタイミングをそろえることです。連動が崩れると効果が落ちます。",
+    "id": 235
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸骨圧迫中に、人工呼吸の中断を最小限にする理由は何ですか。",
+    "back": "新生児蘇生の中心は換気であり、自発呼吸が戻るまで有効な人工呼吸をできるだけ止めないことが神経学的予後の改善につながるためです。",
+    "id": 236
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸骨圧迫中の心拍の評価は、どのように行いますか。",
+    "back": "圧迫と換気を続けながら、ECGモニタなどで心拍を確認します。確認のために長く手を止めると血流が途切れるため、短時間にします。",
+    "id": 237
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸骨圧迫中に心拍が60/分以上になったら、どうしますか。",
+    "back": "胸骨圧迫を中止し、人工呼吸は続けます。その後も心拍とSpO2を評価しながら、自発呼吸が安定するまで換気を継続します。",
+    "id": 238
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "心拍が60/分以上に回復した後も人工呼吸を続けるのはなぜですか。",
+    "back": "心拍が戻っても自発呼吸が不十分な場合が多く、換気が途切れると再び低酸素で徐脈に戻るおそれがあるためです。",
+    "id": 239
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸骨圧迫でも心拍が60/分未満のままのとき、次の手順は何ですか。",
+    "back": "アドレナリン静注（0.01から0.03 mg/kg）を検討します。あわせて臍帯静脈カテーテルによる血管確保と、原因の検討を進めます。",
+    "id": 240
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸骨圧迫でも改善しないとき、薬剤の前に再確認すべきことは何ですか。",
+    "back": "有効な換気ができているか、圧迫の位置と深さ、酸素投与が適切かを確認します。気管挿管や声門上気道デバイスも検討します。",
+    "id": 241
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸骨圧迫中に循環血液量減少が疑われるとき、検討することは何ですか。",
+    "back": "生理食塩水10 mL/kgの投与を検討します。出血などで循環血液量が不足している場合に、血管確保のうえ行います。",
+    "id": 242
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "新生児の胸骨圧迫と成人BLSで、考え方の最も大きな違いは何ですか。",
+    "back": "成人は胸骨圧迫が最重要ですが、新生児は呼吸原性が多いため人工呼吸が最重要です。圧迫と換気の比も新生児は3対1です。",
+    "id": 243
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "成人BLSと比べ、新生児で胸骨圧迫を始める基準が特徴的なのはなぜですか。",
+    "back": "新生児は有効な人工呼吸30秒後に心拍60/分未満という基準で始めます。まず換気を確立してから圧迫に進む点が成人と異なります。",
+    "id": 244
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸骨圧迫中のモニタとして、推奨されるものは何ですか。",
+    "back": "心電図モニタです。ガイドライン2025では蘇生が必要な新生児の心拍評価に有用とされ、使えないときはSpO2モニタと聴診で代用します。",
+    "id": 245
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "ECGモニタが使えないときの心拍確認の方法は何ですか。",
+    "back": "パルスオキシメータと聴診を用います。ただし限界があるため、特に無脈性電気活動が疑われるときは聴診で心拍を確認します。",
+    "id": 246
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸骨圧迫中の心拍確認で一時中断するときの注意点は何ですか。",
+    "back": "中断は短くし、確認後すぐ再開します。確認のために長く止めると冠血流が失われ、人工呼吸も遅れてしまうためです。",
+    "id": 247
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "気管吸引が必要な場面で挿管を考慮するのはなぜか。",
+    "back": "胎便などで気道が閉塞し換気が妨げられるとき、気管内を直接吸引して気道を開通させ、有効な換気につなげるため。",
+    "id": 248
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "挿管を試みるとき、1回の試行はどう考えるべきか。",
+    "back": "長引かせず短時間で区切る。試行中は児が換気されず低酸素が進むので、できなければ中断して人工呼吸を再開する。",
+    "id": 249
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "挿管がうまくできなかったとき、次に行うことは何か。",
+    "back": "いったんマスクとバッグでの人工呼吸に戻し、心拍とSpO2を確認して落ち着いてから再試行や代替手段を考える。",
+    "id": 250
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "挿管の試行中に心拍が低下してきたらどうするか。",
+    "back": "試行を中止して人工呼吸を再開する。低酸素で徐脈が進むのを防ぐことが優先で、挿管の成功より児の状態が大切である。",
+    "id": 251
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "気管チューブが気管に入ったことを確認する最も確実な方法は何か。",
+    "back": "呼気CO2検出器でCO2が検出されること。食道挿管の見落としを防ぐため、胸の上がりや心拍上昇と合わせて総合判断する。",
+    "id": 252
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "チューブ位置確認で、挿管後に期待される児の反応は何か。",
+    "back": "心拍が上昇し、SpO2が改善すること。換気が有効になると低酸素が解消されて徐脈が改善するので、重要な臨床所見である。",
+    "id": 253
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "気管チューブの位置確認で聴診を行う目的は何か。",
+    "back": "左右の胸部で呼吸音を聞き、音の左右差を確認する。片肺挿管の発見に役立ち、胃部で空気音が強ければ食道挿管を疑う。",
+    "id": 254
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "チューブの曇りや胸の上がりだけで位置を判断してはいけない理由は何か。",
+    "back": "食道挿管でも曇ったり、見かけ上動いたりすることがあるため。単独では確実でなく、CO2検出などと組み合わせる必要がある。",
+    "id": 255
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "気管チューブが深く入りすぎたときに起こりやすい合併症は何か。",
+    "back": "片肺挿管。主気管支に入り片側のみ換気され、反対側の呼吸音が弱くなる。SpO2が上がらないときも疑い、チューブを引く。",
+    "id": 256
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "挿管後にSpO2が上がらず胸の上がりが悪いとき、まず何を疑うか。",
+    "back": "チューブの位置異常（食道挿管や片肺挿管）、閉塞、抜けなどを疑う。迷えば抜管して、マスクで換気し直す判断も必要。",
+    "id": 257
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "挿管後、気管チューブが分泌物で詰まったときの対応はどうか。",
+    "back": "吸引を行い、改善しなければ抜管して再挿管またはマスク換気に切り替える。閉塞は換気不良の原因として常に念頭に置く。",
+    "id": 258
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "挿管後の気管チューブの固定で注意すべき点は何か。",
+    "back": "挿入の深さを確認してから確実に固定し、移動の際も抜けやずれがないよう定期的に位置を再確認する。",
+    "id": 259
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "声門上気道デバイスが挿管と異なり、医師以外にも利点がある点は何か。",
+    "back": "看護師や助産師も挿入できること。挿管は医師が行うことが多いが、このデバイスは職種にかかわらず導入しやすい。",
+    "id": 260
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "ILCORは声門上気道デバイスをどのような条件なら第一手段にしてよいとしたか。",
+    "back": "資源があり十分なトレーニングを受けた環境で、在胎34週以降の児。この条件でフェイスマスクの代わりに使ってもよい。",
+    "id": 261
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "挿管の介助者に求められる役割は何か。",
+    "back": "物品の準備と受け渡し、必要時の吸引、心拍とSpO2のモニタ確認、チューブの固定、時間や状態の声かけである。",
+    "id": 262
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "気管挿管を考慮する代表的な場面を三つ挙げるとどうなるか。",
+    "back": "マスクと人工呼吸で有効な換気が得られないとき、胸骨圧迫が長引くとき、気管吸引が必要なときなど。アルゴリズムの＊印の場面である。",
+    "id": 263
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "アルゴリズムで気管挿管を考慮する場面に付いている印は何か。",
+    "back": "＊（アスタリスク）である。2025年版でテキストのアルゴリズムに合わせて、挿管を考慮する場面に追加された表記である。",
+    "id": 264
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "先天性横隔膜ヘルニアが疑われる児で、挿管を考慮する理由は何か。",
+    "back": "マスクとバッグ換気で腸管内にガスが入ると肺を圧迫して悪化するため。早期の気管挿管を考慮して換気を行う。",
+    "id": 265
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "胸骨圧迫を始める前に必ず確認する換気の条件は何か。",
+    "back": "有効な換気が確保されていること。2025年版では「胸骨圧迫前に有効な換気の確保に努める」と記載され、必要なら挿管を考慮する。",
+    "id": 266
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "気管チューブのサイズは何を基準に選ぶか。",
+    "back": "児の体重や在胎週数に応じて選ぶ。確実に入るよう、予定のサイズの前後の太さも準備しておく。数値は教材の表で確認する。",
+    "id": 267
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "挿管の準備で、喉頭鏡のほかに確認しておく物品を挙げよ。",
+    "back": "適切な太さの気管チューブ、スタイレット、吸引、固定用のテープ、呼気CO2検出器、聴診器など。使用前に作動を確認する。",
+    "id": 268
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "挿管の一回の試行に使ってよい時間の目安は何秒か。",
+    "back": "30秒以内。その間は換気が止まり低酸素が進むため、時間内に入らなければ中止して、マスクで人工呼吸を再開する。",
+    "id": 269
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "30秒以内に挿管できなかったときの正しい対応は何か。",
+    "back": "いったん中止してマスクとバッグによる人工呼吸を再開し、心拍とSpO2を確認して立て直してから再度試みる。無理に続けない。",
+    "id": 270
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "挿管の試行中に、介助者が声かけで知らせるべきことは何か。",
+    "back": "経過時間（30秒の目安）と、心拍やSpO2の低下である。術者が時間を意識でき、危険な低下の前に中止の判断ができる。",
+    "id": 271
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "挿管のとき、児の体位はどのようにするか。",
+    "back": "頭部を中間位に保ち、軽く肩の下にタオルなどを入れて気道を開く。喉頭鏡で声門が見やすい位置に整える。",
+    "id": 272
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "気管チューブが気管に入ったことの確認方法を挙げよ。",
+    "back": "胸の上がり、呼気CO2検出器の変色、心拍の上昇、両側の呼吸音、チューブ内の曇りなどを組み合わせて総合的に確認する。",
+    "id": 273
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "挿管直後に最も信頼できるとされる確認方法はどれか。",
+    "back": "呼気CO2検出器による確認である。心拍の上昇などの臨床所見と合わせて判断するが、検出器が示す変色が確実な根拠となる。",
+    "id": 274
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "気管チューブを挿入した後、心拍が上がらないときは何を疑うか。",
+    "back": "食道挿管など、チューブが気管に入っていない可能性。胸の上がりやCO2検出器を再確認し、疑わしければ抜去して再挿管する。",
+    "id": 275
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "気管挿管後に呼吸音の左右差があるときは何を疑うか。",
+    "back": "片肺挿管（チューブが深く入り片側の気管支に入る）。チューブを少し引き戻して、両側の胸の上がりと呼吸音を再確認する。",
+    "id": 276
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "挿管後にチューブの深さを確認するとき、記録しておくことは何か。",
+    "back": "口唇でのチューブの目盛りの数字。固定後も同じ位置にあるかを確認でき、ずれや抜けの早期発見につながる。",
+    "id": 277
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "挿管中の児で、胸が上がらず心拍が下がってきたときの対応は何か。",
+    "back": "チューブの位置、閉塞、外れ、器具の接続を点検する。原因が不明で改善しなければ、抜去してマスクで換気する。",
+    "id": 278
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "気管チューブが閉塞した場合に疑う原因と対応は何か。",
+    "back": "分泌物や胎便による閉塞を疑う。吸引で改善しなければチューブを入れ替えて、換気を確保する。",
+    "id": 279
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "声門上気道デバイスを検討するのはどのような場面か。",
+    "back": "マスクとバッグで有効な換気ができず、気管挿管もできない（または難しい）場面。挿管の代替手段として使用を検討する。",
+    "id": 280
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "2025年のアルゴリズムで声門上気道デバイスはどう扱われたか。",
+    "back": "有効な換気ができないとき、「挿管前に声門上気道デバイスを検討しても良い」と付記された。変更は補足の追記にとどまった。",
+    "id": 281
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "JRC2025が声門上気道デバイスを補足の追記にとどめた理由は何か。",
+    "back": "日本では分娩室への配置の普及が十分でないため。ILCORの推奨は支持するが、アルゴリズムには挿管の代替手段として付記した。",
+    "id": 282
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "声門上気道デバイスが適用される児の在胎週数の目安はどれか。",
+    "back": "在胎34週以降の児が対象。ILCORは、資源があり十分に訓練された環境で、この週数以降に使用してもよいとしている。",
+    "id": 283
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "声門上気道デバイスは気管挿管と違い、誰が挿入できるか。",
+    "back": "医師だけでなく看護師、助産師も挿入できる。挿管よりも手技が簡便であり、各施設で蘇生器具として導入を進めるよう勧められた。",
+    "id": 284
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "ビデオ喉頭鏡を使うことが勧められる状況はどのようなときか。",
+    "back": "資源があり十分に訓練された環境で、特に経験の浅い医師が挿管するとき。上級医の監督のもとで使用を検討するのが妥当とされる。",
+    "id": 285
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "従来型の喉頭鏡は、ビデオ喉頭鏡に比べて現在どう位置づけられるか。",
+    "back": "有害事象が増えるという根拠がなく、依然として妥当な選択肢である。ビデオ喉頭鏡が使えないからといって禁止ではない。",
+    "id": 286
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "挿管の介助者の主な役割を三つ挙げよ。",
+    "back": "物品の準備と手渡し、挿管後のチューブの固定、心拍とSpO2のモニタと声かけ。術者が手技に集中できるよう支える。",
+    "id": 287
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "アドレナリンを投与する条件は何か。",
+    "back": "有効な人工呼吸と胸骨圧迫を30秒間行っても心拍が60/分未満のときに投与する。換気が有効でなければ薬剤より換気の改善が先である。",
+    "id": 288
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "臍帯静脈カテーテル挿入時、位置が正しいことをどう確認するか。",
+    "back": "シリンジで吸引して血液の逆流が確認できることで静脈内に入っていると判断する。逆流がなければ位置を調整し、確認できるまで投与しない。",
+    "id": 289
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "臍帯静脈カテーテルを挿入しすぎると何が問題か。",
+    "back": "深く入れすぎると肝臓内など不適切な位置に入り、薬剤による組織障害の恐れがある。血液の逆流が得られる浅めの位置で止めて固定する。",
+    "id": 290
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "容量負荷にはどのような児が適応になるか。",
+    "back": "循環血液量減少が疑われる児、すなわち蒼白、末梢循環不良、脈が弱いなどがあり、蘇生に反応しない児に行う。出血の既往も手がかりになる。",
+    "id": 291
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "生理食塩水による容量負荷の量と投与のしかたは。",
+    "back": "10 mL/kgを静脈内に投与する。急速すぎる投与は避け、投与後に心拍や皮膚色、末梢循環を評価して反応を確認する。",
+    "id": 292
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "容量負荷に使う輸液の種類は何か。",
+    "back": "等張晶質液である生理食塩水を用いる。出血が明らかで重症の場合は、血液製剤の必要性も考える。",
+    "id": 293
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "容量負荷を行う前に確認すべきことは何か。",
+    "back": "有効な人工呼吸と胸骨圧迫が行われているかを確認する。循環血液量減少が疑われる所見があるときに、換気を整えたうえで投与する。",
+    "id": 294
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "薬剤投与後に心拍が改善しないとき、検討すべき原因は何か。",
+    "back": "換気が有効かの再確認、循環血液量減少、気胸などの原因を考える。原因を検討しながら人工呼吸と胸骨圧迫を継続する。",
+    "id": 295
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "薬剤の取り違えを防ぐために準備時に行うことは何か。",
+    "back": "薬剤名と濃度を確認し、必要なら希釈して、投与量を体重から計算する。実施者と補助者が声に出して復唱し、互いに確認する。",
+    "id": 296
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "アドレナリンの投与量を誤りやすい点は何か。",
+    "back": "濃度と体重あたりの量を取り違えると過量や過少につながる。濃度、希釈、計算した容量（mL）を必ず復唱して確認する。",
+    "id": 297
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "ブリーフィングで薬剤に関して確認しておくことは何か。",
+    "back": "蘇生に必要な物品と薬剤が整っているか、役割分担は誰が薬剤の準備と投与を担当するかを事前に確認し、遅れを防ぐ。",
+    "id": 298
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "蘇生後に低血糖への注意が必要な児はどのような児か。",
+    "back": "蘇生を受けた児は低血糖のリスクがある。特に低体温の児は低血糖のリスクが高く、血糖値のモニタリングを行うことは妥当である。",
+    "id": 299
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "アドレナリン投与の前に必ず確認すべきことは何ですか。",
+    "back": "人工呼吸が有効で胸の上がりがあるか、酸素を使用しているか、胸骨圧迫が適切かを確認します。薬で換気の不備は補えません。",
+    "id": 300
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "アドレナリン投与が早すぎるとなぜ問題ですか。",
+    "back": "新生児の徐脈の多くは低酸素が原因で、有効な換気と酸素化が先だからです。換気が不十分なまま薬を使っても効果が乏しくなります。",
+    "id": 301
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "アドレナリンの静脈内投与量は体重あたりいくつですか。",
+    "back": "0.01から0.03 mg/kgです。投与前に体重から投与量と液量を計算し、複数人で確認してから投与します。",
+    "id": 302
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "アドレナリンの第一選択の投与経路は何ですか。",
+    "back": "臍帯静脈カテーテルからの静脈内投与です。確実に循環へ届くため、静脈路が確保できれば優先し、投与後は生理食塩水でフラッシュします。",
+    "id": 303
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "新生児蘇生で使うアドレナリンはどの濃度に希釈しますか。",
+    "back": "通常の1 mg/mLを10倍に希釈し0.1 mg/mLとして使います。成人用の濃度のまま使うと大量投与の危険があります。",
+    "id": 304
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "アドレナリン0.1 mg/mLを0.01から0.03 mg/kgで使うとき、液量は何mL/kgですか。",
+    "back": "0.1から0.3 mL/kgです。0.1 mg/mLは1 mLに0.1 mgを含むので、mg/kgの量を10倍すれば液量になります。",
+    "id": 305
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "静脈路がまだ確保できないとき、アドレナリンはどうしますか。",
+    "back": "静脈路の確保を急ぎながら、気管挿管されていれば気管内投与も選択肢です。ただし確実性が低いため静脈内投与を優先します。",
+    "id": 306
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "アドレナリン投与後、心拍の評価はいつ、何のために行いますか。",
+    "back": "投与後に心拍を評価し、60/分以上に回復したか判断します。回復すれば胸骨圧迫を中止し、人工呼吸を続けます。",
+    "id": 307
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "アドレナリン投与後も心拍が60/分未満のときの行動は何ですか。",
+    "back": "換気と圧迫の質を再確認し、アドレナリンの反復を検討します。同時に循環血液量減少などの原因を考えます。",
+    "id": 308
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "臍帯静脈カテーテルを挿入する目的は何ですか。",
+    "back": "蘇生に必要な薬剤や輸液を、速やかに確実に静脈内へ投与するためです。胸骨圧迫が必要になる前から準備を始めます。",
+    "id": 309
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "臍帯静脈カテーテルを挿入するとき、位置の確認はどうしますか。",
+    "back": "カテーテルを進め、血液の逆流が得られた位置で止めます。逆流が確認できるまでは薬剤を注入しません。",
+    "id": 310
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "臍帯静脈カテーテル挿入時に守るべき操作上の原則は何ですか。",
+    "back": "清潔操作で行い、事前にカテーテル内を生理食塩水で満たして空気を除きます。空気が入ると空気塞栓の危険があります。",
+    "id": 311
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "臍帯静脈カテーテルを挿入したあと、カテーテルをどうしますか。",
+    "back": "抜けないようにしっかり固定します。蘇生中は動きが多く、事故抜去すると薬剤投与が遅れ出血の原因にもなります。",
+    "id": 312
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "生理食塩水による容量負荷の量はいくつですか。",
+    "back": "10 mL/kgです。循環血液量減少が疑われ、蘇生に反応しない場合に、ゆっくり静脈内へ投与します。",
+    "id": 313
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "容量負荷を考えるのはどんな児ですか。",
+    "back": "出血などによる循環血液量減少が疑われ、蒼白や末梢循環不良があり、蘇生に十分反応しない児です。",
+    "id": 314
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "容量負荷を急速に行いすぎると、なぜ注意が必要ですか。",
+    "back": "特に早産児では急速な輸液で脳室内出血などの危険があるためです。決められた量をゆっくり投与し、反応を評価します。",
+    "id": 315
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "胸骨圧迫が必要ない児で、容量負荷（輸液）を考えるきっかけとなる徴候は何ですか。",
+    "back": "蒼白、末梢循環不良、脈が弱いなどの所見です。これらがあり蘇生に反応しない場合、循環血液量減少を疑います。",
+    "id": 316
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "新生児蘇生で炭酸水素ナトリウムはどう位置づけられていますか。",
+    "back": "2025年のCoSTRで推奨が撤回されました。直接的な裏づけとなるエビデンスがなく、将来新しい根拠が出れば再検討されます。",
+    "id": 317
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "炭酸水素ナトリウムの推奨撤回の理由は何ですか。",
+    "back": "現在のエビデンス確実性の評価法では、支持する直接または間接のエビデンスが存在しないとタスクフォースが結論したためです。",
+    "id": 318
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "蘇生中の薬剤の取り違えを防ぐために、何をしますか。",
+    "back": "薬剤名、濃度、量、経路を声に出して復唱し、複数人で確認します。希釈後はシリンジに薬剤名を明示します。",
+    "id": 319
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "蘇生前のブリーフィングで薬剤について何を確認しますか。",
+    "back": "誰が薬剤を準備し投与するかの役割分担と、アドレナリンや生理食塩水などの物品が整っているかを確認します。",
+    "id": 320
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "蘇生中に体重がわからないとき、薬剤の量はどう考えますか。",
+    "back": "推定体重から投与量を計算し、複数人で確認します。薬剤は体重あたりで決まるため、早めに体重の見当をつけます。",
+    "id": 321
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "蘇生後に血糖測定を考える児はどんな児ですか。",
+    "back": "低体温の児、蘇生を要した児、リスクのある児です。低血糖は神経学的な後障害につながるため確認します。",
+    "id": 322
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "意図せず低体温となった新生児で、血糖について何が妥当とされますか。",
+    "back": "低血糖のリスクがあるため、血糖値をモニタリングすることが妥当とされます。復温中は体温も頻回に確認します。",
+    "id": 323
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "2025年版アルゴリズムの「蘇生後のケアと観察」に並ぶバイタルサインは何か。",
+    "back": "呼吸、心拍、SpO2、体温の4項目である。蘇生が成功した後も悪化しうるため、これらを継続して観察する。",
+    "id": 324
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "蘇生後のケアで、なぜ呼吸観察を継続するのか。",
+    "back": "蘇生後も努力呼吸やチアノーゼ、無呼吸が再び出現しうるためである。換気不全の再発を早く見つけて対応する。",
+    "id": 325
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "蘇生後の観察で、呼吸以外に低酸素の再発を示す所見は何か。",
+    "back": "SpO2の低下と心拍の低下である。数値とあわせて努力呼吸やチアノーゼの有無を見て、早期に介入を検討する。",
+    "id": 326
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "蘇生後の観察を「一度きり」ではなく継続して行う理由は何か。",
+    "back": "蘇生後の児の状態は変化しやすく、再び悪化する可能性があるためである。評価と介入を繰り返す姿勢が重要である。",
+    "id": 327
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "蘇生後の搬送先を決める際に最も重視する観点は何か。",
+    "back": "児に必要な集中治療が提供できる施設かどうかである。必要な処置が可能な新生児集中治療につなげることが目標になる。",
+    "id": 328
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "蘇生後に新生児搬送を依頼するとき、受け入れ先に伝える情報は何か。",
+    "back": "在胎週数、出生体重、出生時の状態、行った蘇生処置、心拍とSpO2の推移、現在の状態を簡潔に伝える。",
+    "id": 329
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "搬送中に必ず気をつけるべき保温上の点は何か。",
+    "back": "搬送中も低体温を予防することである。保温器や保温具を使い、体温を継続して観察する。移動中も呼吸の確認を続ける。",
+    "id": 330
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "蘇生後、家族に説明するときに大切なことは何か。",
+    "back": "児の状態と行った処置、今後の見通しを、わかりやすい言葉で誠実に伝えることである。説明の時間を確保する。",
+    "id": 331
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "蘇生後の搬送前に、誰が何を行うかを確認する意義は何か。",
+    "back": "搬送中の呼吸管理や保温を担当する人員と物品を事前に確実にするためである。役割分担が不十分だと対応が遅れる。",
+    "id": 332
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "低酸素性虚血性脳症に対する脳低温療法の対象となる在胎週数は。",
+    "back": "在胎36週以上の児が対象である。出生時の低酸素や虚血によって中等症以上の脳症が疑われる場合に検討する。",
+    "id": 333
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "脳低温療法は出生後どのくらいの時間内に開始するのが原則か。",
+    "back": "生後6時間以内に開始するのが原則である。早期ほど有効性が期待できるため、適応の判断を遅らせない。",
+    "id": 334
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "脳低温療法を検討する対象は、どの程度の脳症の児か。",
+    "back": "中等症から重症の低酸素性虚血性脳症が疑われる児である。軽症は対象としない。神経学的評価を行って判断する。",
+    "id": 335
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "蘇生の現場で脳低温療法を見据えて行うべきことは何か。",
+    "back": "蘇生後すぐに適応を判断できる施設へ連絡し、必要なら速やかに搬送することである。時間枠があるため連絡が遅れないようにする。",
+    "id": 336
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "脳低温療法の適応を考える児に、蘇生の場で過度の加温を避ける理由は何か。",
+    "back": "高体温は脳障害を悪化させうるためである。蘇生後は低体温だけでなく高体温も避け、体温を継続して観察する。",
+    "id": 337
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "分娩後に意図せず低体温となった新生児には、復温を始めるべきか。",
+    "back": "復温を開始すべきである。低体温を放置せず、プロトコールに沿って体温を回復させる。",
+    "id": 338
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "復温の速さについて、急速復温と緩徐復温のどちらが良いと言えるか。",
+    "back": "どちらが良いとする十分な根拠はない。急速は毎時0.5℃以上、緩徐は毎時0.5℃未満であり、施設のプロトコールに従う。",
+    "id": 339
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "復温で設定温度を生理的温度より高くするときの注意点は何か。",
+    "back": "高体温を起こすリスクがあるため、体温を頻回または持続的にモニタリングすることである。",
+    "id": 340
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "意図しない低体温の復温で、速度にかかわらず守るべきことは何か。",
+    "back": "復温のプロトコールを使用することである。あわせて体温の頻回な確認と血糖値のモニタリングを行う。",
+    "id": 341
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "低体温の児の復温中に、体温以外で確認すべきものは何か。",
+    "back": "血糖値である。低体温の新生児は低血糖のリスクがあるため、復温中も含めて血糖のモニタリングが妥当とされる。",
+    "id": 342
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "蘇生後の体温維持で目指す状態を一言で言うと何か。",
+    "back": "低体温も高体温も避けて、正常体温を維持することである。体温は継続して測り、器具の設定を調整する。",
+    "id": 343
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "出生時の分娩室の室温は何℃以上が提案されているか。",
+    "back": "23℃以上である。20℃と比べて正常体温の維持に有利とされる。低体温予防の基本として室温を整える。",
+    "id": 344
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "在胎34週未満の早産児の保温で強く推奨されている方法は何か。",
+    "back": "プラスチックバッグまたはラップの使用と、キャップなどで頭部を覆うことである。いずれも正常体温維持のために推奨される。",
+    "id": 345
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "保温マットレスを併用するとき、特に注意すべき点は何か。",
+    "back": "高体温になるリスクがあることである。入院時低体温が問題となる場合に考慮するが、体温を頻回に確認する。",
+    "id": 346
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "蘇生後のSpO2は、生後10分以降どの値以上を目標にするか。",
+    "back": "90%以上である。生後の時間ごとの目標値に沿って評価し、達していなければ酸素投与を検討する。",
+    "id": 347
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "蘇生後に過剰な酸素投与を避ける理由は何か。",
+    "back": "高濃度酸素は酸化ストレスによる障害をもたらしうるためである。SpO2をモニタして必要最小限の酸素にとどめる。",
+    "id": 348
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "蘇生後にSpO2が目標に達しないとき、アルゴリズムはどう示しているか。",
+    "back": "改善がなければ酸素投与を検討する。酸素の追加は一律ではなく、SpO2などの評価をふまえて判断する。",
+    "id": 349
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "蘇生後の循環の評価に用いる項目として、呼吸や心拍のほかに何があるか。",
+    "back": "呼吸、心拍、SpO2、体温です。血圧や尿量などは施設の判断で加えます。蘇生後は低酸素や虚血による臓器障害が起こりうるため、全身状態を継続して観察する。",
+    "id": 350
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "SpO2モニタは何を見るために装着するのか。",
+    "back": "心拍とSpO2を連続して評価し、酸素化が目標に達しているかを判断するためである。蘇生後の観察にも使う。",
+    "id": 351
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "蘇生後に児の状態が再び悪化したとき、まず何をするか。",
+    "back": "再び蘇生の流れに戻って評価し、呼吸と心拍を確認する。悪化の原因を考えながら必要な介入をただちに行う。",
+    "id": 352
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "蘇生後に心拍やSpO2が下がったとき、最初に見直す点は何か。",
+    "back": "有効な換気が確保されているかである。マスクの密着や体位、気道の確保、分泌物の有無などを確認する。",
+    "id": 353
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "再悪化したときに原因を再検討するのは、なぜ重要か。",
+    "back": "同じ原因が続けば同じ介入では改善しないためである。換気、酸素、体温、循環などの原因を一つずつ見直す。",
+    "id": 354
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "蘇生後の再悪化で、人手が足りないとき考えるべきことは何か。",
+    "back": "応援要請を遅らせないことである。ブリーフィングで決めた方法と担当者に従って、早めに応援を呼ぶ。",
+    "id": 355
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "再悪化で胸骨圧迫が必要になる心拍の目安は何か。",
+    "back": "有効な人工呼吸を行っても心拍が60/分未満のときである。人工呼吸、酸素、胸骨圧迫を3対1で組み合わせる。",
+    "id": 356
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "蘇生の記録に残すべき主な情報は何か。",
+    "back": "時刻、行った処置、心拍とSpO2の推移である。後の振り返りや搬送先への引き継ぎ、医療安全に役立つ。",
+    "id": 357
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "蘇生の記録に時刻を残す意義は何か。",
+    "back": "処置の遅れや順序を後から正確に検証できるためである。各処置とあわせて評価の時刻を書き留める。",
+    "id": 358
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "蘇生後にデブリーフィングを行う目的は何か。",
+    "back": "チームで蘇生の経過を振り返り、良かった点と改善点を共有してパフォーマンスを高めることである。",
+    "id": 359
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "デブリーフィングで確認する観点に当てはまるものは何か。",
+    "back": "役割分担が機能したか、物品が整っていたか、評価と介入が適切な順序で遅れなく行われたかなどである。",
+    "id": 360
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "ブリーフィングと蘇生後のデブリーフィングの違いは何か。",
+    "back": "ブリーフィングは出生前に情報確認と役割分担、物品確認を行い、デブリーフィングは蘇生後に経過を振り返る。",
+    "id": 361
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "蘇生中に家族が立ち会うことについて、ガイドラインはどう述べているか。",
+    "back": "環境や施設、親の意向が許せば立ち会いは合理的である。ただし支援と付き添いに十分な人員が必要である。",
+    "id": 362
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "先天性横隔膜ヘルニアが疑われる児で、長時間のマスク換気を避ける理由は。",
+    "back": "胃や腸に空気が入って腸管が膨らみ、胸腔内の臓器が肺をさらに圧迫するため。早めに気管挿管を考える。",
+    "id": 363
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "先天性横隔膜ヘルニアを疑う出生前や出生後の所見は。",
+    "back": "胎児超音波で胸腔内に胃や腸が見える、胸郭が膨らんで腹部が陥凹する、心音が偏位して聞こえるなどが手がかりになる。",
+    "id": 364
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "先天性横隔膜ヘルニア疑いの児で、挿管後に胃管を入れる目的は。",
+    "back": "胃腸内の空気を抜いて減圧し、胸腔に脱出した腸管による肺と縦隔の圧迫を軽減するため。",
+    "id": 365
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "先天性横隔膜ヘルニアが分かっている出生で、ブリーフィングで確認する点は。",
+    "back": "出生前診断を共有し、気管挿管と胃管の準備と担当者、新生児科への応援要請の方法を事前に決めておく。",
+    "id": 366
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "先天性横隔膜ヘルニアの児で、高い気道圧を避けたい理由は。",
+    "back": "肺が低形成で脆弱なため、過剰な圧は気胸を起こしやすい。必要最小限の圧で有効な換気を目指す。",
+    "id": 367
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "MR. SOPAの各文字は何を表すか。",
+    "back": "M マスク調整、R 気道の再確保（体位）、S 吸引、O 口を開ける、P 圧を上げる、A 気道代替（気管挿管または声門上気道デバイス）。",
+    "id": 368
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "MR. SOPAを行っても換気が改善しないとき、考える病態は。",
+    "back": "気胸、胸水、肺低形成、先天性横隔膜ヘルニア、気道閉塞など。原因を検討し、処置と応援要請につなげる。",
+    "id": 369
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "人工呼吸中に気胸を疑う所見は。",
+    "back": "胸郭の動きや呼吸音の左右差、心音の偏位、人工呼吸をしても改善しない低酸素など。確定には画像や処置を要する。",
+    "id": 370
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "緊張性気胸が疑われ、人工呼吸で改善しない場合の処置は。",
+    "back": "胸腔穿刺や胸腔ドレナージによる脱気が必要になる。経験のある医師が行うため、早めに応援を要請する。",
+    "id": 371
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "人工呼吸で改善しない気道閉塞の原因の例は。",
+    "back": "後鼻孔閉鎖、喉頭や気管の奇形、分泌物や胎便による閉塞など。吸引や気管挿管で気道を確保できるか確認する。",
+    "id": 372
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "胸水が多い児で、人工呼吸が難しい理由は。",
+    "back": "胸水が肺を圧迫して拡張を妨げるため。胸腔穿刺によるドレナージが必要になることがある。",
+    "id": 373
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "胎児水腫が出生前に分かっているとき、蘇生で準備することは。",
+    "back": "経験者を含むチームと応援要請、気管挿管と臍帯静脈カテーテルの物品、胸水や腹水の穿刺ができる準備を整える。",
+    "id": 374
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "循環血液量減少を疑う出生前後の状況を挙げよ。",
+    "back": "母体胎児間輸血、胎盤早期剥離、前置胎盤などの出血、臍帯脱出や臍帯断裂など。蒼白や循環不全が手がかりになる。",
+    "id": 375
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "人工呼吸、胸骨圧迫、アドレナリンでも改善しないとき、考える原因は。",
+    "back": "循環血液量減少を考える。蒼白で反応が乏しい場合は、生理食塩水10 mL/kgの投与を行う。",
+    "id": 376
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "循環血液量減少が疑われる児への、生理食塩水の投与量は。",
+    "back": "10 mL/kgを静注する。臍帯静脈カテーテルなどから投与し、心拍やSpO2などで効果を評価する。",
+    "id": 377
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "母体胎児間輸血などで児が貧血になったとき、蘇生中に見られる様子は。",
+    "back": "蒼白で、人工呼吸や酸素に対する反応が乏しい。循環血液量の補充が必要になるため、早めに応援を要請する。",
+    "id": 378
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "蘇生の差し控えや中止を考えるとき、検討する要素は。",
+    "back": "在胎週数、予想される生命予後、医学的状況、両親の意向。チームで合意し、家族と十分に話し合って決める。",
+    "id": 379
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "蘇生の差し控えについて、出生前に両親と話し合う意義は。",
+    "back": "児の予後と蘇生の内容を共有し、両親の意向を反映できる。産科と新生児科が連携して計画を立てることが望ましい。",
+    "id": 380
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "蘇生の差し控えや中止の決定は、誰がどのように行うか。",
+    "back": "一人で決めず、産科と新生児科などのチームで話し合い、両親と合意して決める。上級医の判断も含めて行う。",
+    "id": 381
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "適切な蘇生後も心拍が戻らないとき、中止の判断はどう行うか。",
+    "back": "蘇生の質と経過時間を確認し、チームと家族で話し合って検討する。特定の時間だけで機械的に決めない。",
+    "id": 382
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "蘇生を差し控えたり中止した後、児と家族に行うケアは。",
+    "back": "児を温かく丁寧に扱い、家族が抱いて過ごせるよう配慮し、苦痛を和らげる緩和的なケアを行う。",
+    "id": 383
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "2025年のILCORは、蘇生への家族の立ち会いをどう提案したか。",
+    "back": "環境、施設、親の意向が許せば、母、父、パートナーの立ち会いは合理的と提案した（弱い推奨）。",
+    "id": 384
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "JRCは家族の蘇生立ち会いに、どのような条件を付けたか。",
+    "back": "推奨を支持するが、保護者の支援と付き添いには、適切なトレーニングを受けた十分な人員が必要とした。",
+    "id": 385
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "家族が蘇生に立ち会うとき、担当者が行う支援は。",
+    "back": "蘇生チームとは別に付き添う担当者を置き、状況を分かりやすく説明し、気持ちに寄り添う。",
+    "id": 386
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "家族の立ち会いについて、ブリーフィングで確認する事項は。",
+    "back": "母体の状況と施設の環境を踏まえ、立ち会いの可否、家族へ説明する担当者と付き添う担当者を事前に決めておく。",
+    "id": 387
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "蘇生後の家族への説明で、心がける点は。",
+    "back": "専門用語を避け、事実を正直に分かりやすく伝え、質問に答える。できるだけ早く、静かな場所で行う。",
+    "id": 388
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "重篤な状態の児の家族への、共感的な対応とは。",
+    "back": "気持ちに耳を傾け、不安や悲しみを受け止める。児の名前を呼び、できる限り児と触れ合える機会を作る。",
+    "id": 389
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "新生児医療の倫理で、児の最善の利益を考える際に大切なことは。",
+    "back": "医学的情報と両親の価値観を共有し、チームで話し合って決める。話し合いと決定の内容は記録に残す。",
+    "id": 390
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "困難な蘇生を経験した医療者自身のケアとして行うことは。",
+    "back": "振り返りで感情を共有し、必要に応じて相談や支援を利用する。一人で抱え込まないことが大切である。",
+    "id": 391
+  },
+  {
+    "domain": "special_situations_ethics_and_family",
+    "front": "蘇生後に行う振り返り（デブリーフィング）の目的は。",
+    "back": "チームの対応を評価し、良かった点と改善点を共有する。医療者の心理的負担への配慮にもなる。",
+    "id": 392
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "成人のhigh performance CPRの考え方を新生児蘇生に当てはめるとき、何に置き換えるか。",
+    "back": "成人で最重要の胸骨圧迫を、新生児では人工呼吸に置き換えて考える。新生児の徐脈や心停止は多くが低酸素性であるため。",
+    "id": 393
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "JRCアルゴリズム2025年版で、2020年版から加えられた変更は何か。",
+    "back": "声門上気道（SGA）デバイスについての補足の追記のみで、それ以外の変更は行われていない。評価と介入の項目も同じである。",
+    "id": 394
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "NCPR教材の2025年版アルゴリズムをスリム化した狙いは何か。",
+    "back": "分娩室に掲示して蘇生の現場で使うことを念頭に、JRCアルゴリズムの内容を現場で必要な情報に限定し、視認性を高めるためである。",
+    "id": 395
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "新生児蘇生法アルゴリズムは何年ごとに改訂され、今回はいつ公表されたか。",
+    "back": "エビデンスに基づき5年ごとに改訂される。JRCガイドライン2025第4章新生児の蘇生は、2025年10月23日に公表された。",
+    "id": 396
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "臍帯管理で、個別の症例ごとに判断することが提案される母児胎盤の条件は何か。",
+    "back": "多胎（一絨毛膜）、先天異常、胎盤異常、同種免疫、胎児貧血、胎児機能不全、母体疾患などで、研究の除外基準とされエビデンスが不十分なため。",
+    "id": 397
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "JRCが出生時に特定のPPVデバイスの使用を推奨しなかった背景は何か。",
+    "back": "国内では自己膨張式バッグが最も多くTピース蘇生器の普及は30％台にとどまり、Tピースと他のバッグを比べる研究も認められないため。",
+    "id": 398
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "正期産児の初期酸素濃度で撤回された推奨の背景として、JRCが挙げた国内事情は何か。",
+    "back": "空気の供給やブレンダーがなく100％酸素を蘇生に使う産科診療所もあるため、「100％で開始しない」推奨の撤回は妥当とされた。",
+    "id": 399
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "在胎32から35週未満の児の初期酸素濃度について、ILCORの推奨はどうか。",
+    "back": "推奨や提案を行うのに十分なエビデンスが存在しない。32週未満は30％以上で開始してもよいという提案があるのと異なる点である。",
+    "id": 400
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "ILCORが、蘇生不要の37週未満の早産児に強く推奨する臍帯管理は何か。",
+    "back": "60秒以上の臍帯結紮遅延です。強い推奨で、エビデンスの確実性は中等度とされています。",
+    "id": 401
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "在胎28週以上35週未満の早産児の臍帯管理で、JRC2025は何を検討するとしたか。",
+    "back": "ミルキング、60秒以上の遅延結紮、早期結紮のいずれかを、蘇生の必要性と貧血や黄疸のリスクを考えて選びます。",
+    "id": 402
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "蘇生不要な28週未満の児で、JRC2025は結紮後ミルキングの代わりに何を提案したか。",
+    "back": "保温と観察の対策を整えたうえでの、60秒以上の臍帯遅延結紮です。弱い推奨で、確実性は中程度です。",
+    "id": 403
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "一絨毛膜多胎や胎児貧血などがある児の臍帯管理は、どう決めるか。",
+    "back": "推奨を行う根拠が不十分なため、病態の重症度と母体および新生児のリスク評価に基づき、症例ごとに個別に判断します。",
+    "id": 404
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "出生後すぐに蘇生が必要な37週未満の早産児の臍帯管理について、ILCORの立場は。",
+    "back": "推奨を行うにはエビデンスが不十分としています。蘇生の開始を遅らせないことを優先して考えます。",
+    "id": 405
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "ラジアントウォーマの手動モードとサーボ制御モードの優劣について、ILCORは何と述べたか。",
+    "back": "34週未満の早産児で、サーボ制御モードが手動より良いかを示す十分なエビデンスはない、としています。",
+    "id": 406
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "出生直後の母児皮膚接触が提案されるのは、どのような児か。",
+    "back": "在胎34週以上で、蘇生を必要とするリスクが低い後期早産児と正期産児です。正常体温を維持する目的で提案されています。",
+    "id": 407
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "2025年版アルゴリズム図から削除された「出生直後のチェックポイント」で、評価項目は変わったか。",
+    "back": "変わっていません。前後関係から意味が分かる文言を削除しただけで、早産児、弱い呼吸か啼泣、筋緊張低下の三項目は同じです。",
+    "id": 408
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "2025年版で「SpO2モニタ装着を検討」の文言が評価の箱から削除された理由は。",
+    "back": "評価の箱に書く内容ではなく、評価後の行動だからです。評価の箱は、呼吸と心拍などを見る項目に絞られました。",
+    "id": 409
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "2025年版で「酸素を追加・増量」が「酸素投与を検討」に簡略化された理由は。",
+    "back": "この時点の評価項目は心拍とSpO2モニタ装着後のSpO2だけで、追加も増量も酸素濃度を上げることだからです。",
+    "id": 410
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "自発呼吸のある呼吸障害児のCPAPのルーチン使用の是非について、ILCORは何と述べたか。",
+    "back": "ルーチンに使用する、または使用しないことを提案する十分なエビデンスはない、としています。",
+    "id": 411
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "出生直後にPEAが疑われる児の心拍は、どう確認することになっているか。",
+    "back": "聴診、または聴診とパルスオキシメータの併用で確認します。心電図の電気活動だけでは脈の有無を判断できないためです。",
+    "id": 412
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "デジタル聴診器やドップラーなどの分娩室での心拍評価について、ILCORの見解は。",
+    "back": "使用に関する十分なエビデンスはない、としています。現時点で勧められるのは心電図モニタが第一です。",
+    "id": 413
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "在胎34週未満の早産児で、ラップやバッグの使用の推奨度は34週以上の児とどう違うか。",
+    "back": "34週以上では検討する弱い推奨ですが、34週未満では使用を推奨する強い推奨（確実性は中等度）に上がります。",
+    "id": 414
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "出生時の室温23℃以上の提案は、34週未満の早産児にも当てはまるか。",
+    "back": "当てはまります。34週以上と同様に、20℃と比べて23℃以上に設定して正常体温を維持するよう提案されています。",
+    "id": 415
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "臍帯遅延結紮の議論で、後期早産児とされる在胎週数の下限は何週か。",
+    "back": "在胎34週以上です。34週以上で活気があり、蘇生を必要としない児が臍帯遅延結紮の議論の対象になっています。",
+    "id": 416
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "活気のない児で、臍帯結紮前に蘇生を始める方法についてILCORの評価は。",
+    "back": "intact cord resuscitationについては、十分なエビデンスはない、としています。JRCも推奨も否定もしません。",
+    "id": 417
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "28週以上37週未満で蘇生不要な児に、ILCORが遅延結紮の代わりに提案できる手技は。",
+    "back": "臍帯ミルキングです。条件付き推奨でエビデンスの確実性は低く、それぞれの母児の状況を考慮する必要があります。",
+    "id": 418
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "2025年の新生児蘇生の基本として強調された三つのポイントは何か。",
+    "back": "低体温の予防、遅延なき人工呼吸の開始、早期に適切な人工呼吸を確立して自発呼吸が戻るまで中断を最低限にすることです。",
+    "id": 419
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "出生直後の乾燥で、濡れたタオルはどう扱うか。",
+    "back": "濡れたタオルは取り除き、乾いたタオルで児を包む。濡れたままだと水分の蒸発で熱が奪われ続けるため。",
+    "id": 420
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "呼吸を促す皮膚刺激で避けるべき行為は何か。",
+    "back": "足底を強く叩く、児を強く揺さぶる、背中を強くこするなどの乱暴な刺激。弱い刺激で十分で、効果がなければ人工呼吸へ進む。",
+    "id": 421
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "胎便汚染羊水のとき、児頭娩出直後（肩の娩出前）に口と鼻を吸引するか。",
+    "back": "行わない。出生前の吸引は有益性が示されず、必要な処置は出生後に児の状態を評価して決める。",
+    "id": 422
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "胎便汚染羊水の児で「活気がある」と判断する所見は何か。",
+    "back": "強い呼吸または啼泣があり、筋緊張が良好で、心拍が十分なこと。この場合は清明羊水と同様にルーチンの吸引をしない。",
+    "id": 423
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "出生直後の児の頭部も乾燥させる理由は何か。",
+    "back": "新生児は体表面積に占める頭部の割合が大きく、濡れた頭部から多くの熱が失われるため。頭部も忘れずに拭く。",
+    "id": 424
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "新生児が熱を失う四つの経路は何か。",
+    "back": "蒸発、対流、放射、伝導。濡れた体の乾燥、隙間風を避けること、温めた台やタオルの使用などで、それぞれ防ぐ。",
+    "id": 425
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "ラジアントウォーマとタオルは、いつ温めておくべきか。",
+    "back": "出生前のブリーフィングの時点で予熱しておく。出生後に温め始めると、最初の数十秒で児の体温が下がるため。",
+    "id": 426
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "初期処置の開始時に、時間管理の面で行っておくことは何か。",
+    "back": "出生時刻を確認し、経過時間を声に出して共有する。生後60秒以内の有効な人工呼吸開始に遅れないようにするため。",
+    "id": 427
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "低体温が新生児蘇生で問題になる理由は何か。",
+    "back": "酸素消費が増えて低酸素や代謝性アシドーシスを悪化させ、低血糖のリスクも高まる。保温は蘇生全体の基本である。",
+    "id": 428
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "鼻腔の吸引を強く行うと、なぜ問題になるか。",
+    "back": "新生児は主に鼻呼吸のため、粘膜の損傷や浮腫で鼻閉を起こし、かえって気道を妨げる。必要時のみ軽く行う。",
+    "id": 429
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "気道を開通させる体位保持で、頭部はどの位置に保つか。",
+    "back": "顔を正面に向けて頭部を正中位に保ち、首を過伸展にも過屈曲にもしないスニッフィングポジションにする。",
+    "id": 430
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "ラップと放射熱源など複数の保温手段を重ねるとき、特に注意することは何か。",
+    "back": "高体温になるリスクがあるため、体温を頻回に測定して過剰な加温を避ける。低体温だけでなく高体温も予後を悪くする。",
+    "id": 431
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "日本でのTピース蘇生器の普及率はどの程度とされているか。",
+    "back": "JRCの見解では30%台にとどまり、自己膨張式バッグが最も多い。このためTピースを前提にせず、バッグを使える準備が必要である。",
+    "id": 432
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "ILCORがTピースを自己膨張式バッグより提案する際の推奨の強さは。",
+    "back": "弱い推奨で、エビデンスの確実性は非常に低い。「資源が許す状況であれば」という条件付きの提案であり、強く推奨するものではない。",
+    "id": 433
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "Tピース蘇生器と流量膨張式バッグの比較について、ILCORはどう述べているか。",
+    "back": "流量膨張式バッグと比較してTピース蘇生器を推奨するデータはない。どちらが優れるとも言えないため、優劣は示されていない。",
+    "id": 434
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "PEEPバルブ付きと無しの自己膨張式バッグで、ILCORが推奨を示さない理由は。",
+    "back": "効果推定の信頼度が非常に低く、どちらかを推奨することはあまりに憶測的と判断したため。優劣を断定してはならない。",
+    "id": 435
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "非侵襲換気中の呼気二酸化炭素モニタについて、ILCORの立場は。",
+    "back": "フェイスマスクやSGA、鼻カニュラなどでの非侵襲的間欠的陽圧換気での使用は、推奨も非推奨もできるだけのエビデンスが不十分とした。",
+    "id": 436
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "ILCORが挙げた非侵襲的間欠的陽圧換気のインターフェースの例は何か。",
+    "back": "フェイスマスク、声門上気道デバイス、鼻カニュラなどが例として挙げられている。換気の手段はマスクだけではないという理解につながる。",
+    "id": 437
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "蘇生中の呼吸機能モニタリングについて、ILCORとJRCはどう述べたか。",
+    "back": "出生時に呼吸補助を受ける児に使う、または使わない提案をするだけの十分なエビデンスはない。JRCもこの見解を支持している。",
+    "id": 438
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "PPV中の近赤外分光分析法（NIRS）で測るものと、推奨の有無は。",
+    "back": "脳局所酸素飽和度（脳rSO2）を測る。臨床所見とパルスオキシメータに加えて使うことを推奨する十分なエビデンスはない。",
+    "id": 439
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "100%酸素での蘇生開始を避ける推奨の撤回に、JRCが妥当と述べた背景は。",
+    "back": "日本には空気供給やブレンダがなく、100%酸素を使う産科診療所があること、またエビデンスの確実性が不十分なことから、JRCは暫定撤回を妥当としました。",
+    "id": 440
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "2025年に撤回された「100%酸素で開始しない」推奨の当初の強さは。",
+    "back": "強い推奨だがエビデンスの確実性は低かった。確実性が不十分と評価され撤回された。強い推奨でも確実性が低いと撤回されうる。",
+    "id": 441
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "2020年のILCORが在胎35週以上の児に提案していた初期酸素濃度は。",
+    "back": "21%（室内気）で開始することを弱い推奨で提案していた。撤回されたのは100%を避ける推奨のほうである点に注意する。",
+    "id": 442
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "自発呼吸が再開するまで人工呼吸で守るべき基本原則は何か。",
+    "back": "人工呼吸の中断を最低限にすること。新生児蘇生では人工呼吸が最も重要な手技なので、他の処置のために長く止めない。",
+    "id": 443
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "あえぎ呼吸は有効な自発呼吸とみなしてよいか。",
+    "back": "みなしてはならない。あえぎ呼吸は無呼吸と同様に扱い、人工呼吸の開始条件に含まれる。呼吸の有無だけで安心しない。",
+    "id": 444
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "2025年版で心拍またはSpO2が改善しないときの酸素の表記はどう変わったか。",
+    "back": "「酸素を追加・増量する」から「酸素投与を検討」に簡略化した。評価項目は心拍とSpO2モニタ装着後はSpO2なので、表現を整理した。",
+    "id": 445
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "自発呼吸を認める児の人工呼吸を中止してよい目安は何か。",
+    "back": "有効な自発呼吸があり心拍が100回/分以上になったとき。その後は呼吸と心拍とSpO2の観察を続け、悪化すれば再開する。",
+    "id": 446
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "2025年版で「胸骨圧迫前に有効な換気の確保に努める」と簡略化した理由は。",
+    "back": "評価後に次のステップへ進むときは、常に直前の行動が適切であったかを確認するので、文章を簡略化した。換気確保の重要性は変わらない。",
+    "id": 447
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "JRCが臍帯結紮前のミルキングを推奨も否定もしない理由に、人工呼吸との関係でどんな点があるか。",
+    "back": "臍帯処置のために人工呼吸の開始が遅れることが懸念された。人工呼吸を遅らせない原則が、臍帯管理の判断にも影響している。",
+    "id": 448
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "2025年版で胸骨圧迫時に「人工呼吸、酸素、胸骨圧迫」を並列にした理由は。",
+    "back": "酸素投与の忘れを防ぐため。以前の「人工呼吸（＋酸素）」の括弧を外し、3つの動作を同列の項目として示した。",
+    "id": 449
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "ILCORがTピース蘇生器を提案するとき、どのような備えが同時に必要か。",
+    "back": "ガス源が使えない状況に備え、バックアップとして自己膨張式バッグを使える状態にしておくこと。Tピースだけに頼ってはならない。",
+    "id": 450
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "2秒を1サイクルとすると、1分間の人工呼吸と胸骨圧迫は何回ずつになるか。",
+    "back": "人工呼吸は30回/分、胸骨圧迫は90回/分になる。1サイクルは圧迫3回と人工呼吸1回で、この速さを保つことが重要である。",
+    "id": 451
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "2025年版で「1分間に人工呼吸30回と胸骨圧迫90回」の記載はどう変わったか。",
+    "back": "単なる知識なので削除し、実施上の注意点として「2秒間を1サイクルとして施行」に修正した。1対3を適切な速さで行うことが重要だからである。",
+    "id": 452
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸骨圧迫は何のために行う手技か。目的を述べよ。",
+    "back": "胸骨を脊柱側へ押して心臓から血液を送り出し、脳と心筋へ酸素化された血流を保つためである。換気による酸素化が前提となる。",
+    "id": 453
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸骨圧迫者を途中で交代する理由と、交代に適した場面はいつか。",
+    "back": "疲労で圧迫の深さと速さが落ちるのを防ぐため。心拍の評価などで圧迫を止める区切りに、中断を増やさず交代する。",
+    "id": 454
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸骨圧迫で、胸骨の下端にある剣状突起を押してはいけないのはなぜか。",
+    "back": "圧迫が心臓に効かないうえ、剣状突起の下の肝臓などを傷つけるおそれがあるためである。部位は胸骨の下3分の1を守る。",
+    "id": 455
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "圧迫と圧迫の間、胸郭にどのような力の加減をするのが正しいか。",
+    "back": "圧迫のたびに力を抜き胸郭が十分元に戻るようにする。指や母指は胸壁から離さず、位置がずれないようにする。",
+    "id": 456
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸骨圧迫中に低体温を防ぐための保温はどうするか。",
+    "back": "保温はアルゴリズム全体の縦軸であり、蘇生の流れの中で続ける。圧迫中も体温管理を怠らず、児を冷やさないようにする。",
+    "id": 457
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "心拍が60/分以上に戻り胸骨圧迫を中止した後、再び60/分未満になったらどうするか。",
+    "back": "再び人工呼吸、酸素、胸骨圧迫（1対3）に戻る。人工呼吸は止めずに続け、心拍の評価を繰り返して判断する。",
+    "id": 458
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸骨圧迫が必要になる前に、人員が少ない現場で何を検討しておくか。",
+    "back": "応援要請を検討する。ローリスク分娩では担当が1から2名のこともあるため、誰がどの方法でいつ要請するかをブリーフィングで確認する。",
+    "id": 459
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "挿管の試行時間は、いつからいつまでを数えるか。",
+    "back": "喉頭鏡を口に入れてから抜くまでを数える。この間は換気が止まるため、30秒以内にとどめ、心拍とSpO2の低下に注意する。",
+    "id": 460
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "心拍が極端に低い児で、呼気CO2検出器が反応しにくいのはなぜか。",
+    "back": "心拍出量が少なく肺血流が乏しいと、呼気に出るCO2が少なく偽陰性になりうる。反応がなくても食道挿管と決めつけず、他の所見も合わせて判断する。",
+    "id": 461
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "気管チューブが右の主気管支に入りやすいのはなぜか。また、そのときの所見は。",
+    "back": "右主気管支は気管の延長に近い走行で、深く入ると右に入りやすい。左の呼吸音が弱く、胸の上がりに左右差が出るのでチューブを少し引く。",
+    "id": 462
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "食道挿管を疑う所見と、疑ったときの対応は何か。",
+    "back": "胃部の膨隆、呼気CO2の反応なし、心拍が上がらないなどで疑う。チューブを抜いてマスク換気に戻り、児を安定させてから再挿管する。",
+    "id": 463
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "挿管後の人工呼吸の頻度は、マスク換気のときと変わるか。",
+    "back": "変わらず、40から60回/分で行う。チューブが入っても、胸の上がりと心拍、SpO2を見て換気の有効性を評価し続ける。",
+    "id": 464
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "声門上気道デバイスを第一手段にする場合と第二手段にする場合の違いは何か。",
+    "back": "第一手段は資源と訓練がある環境で34週以降の児にマスクの代わりに使う。第二手段はマスク換気がうまくいかないとき挿管の代替として使う。",
+    "id": 465
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "挿管を何度も失敗する担当者がいるとき、チームはどう動くべきか。",
+    "back": "同じ人が繰り返さず、経験者への交代、応援要請、声門上気道デバイスの使用を考える。目的は挿管ではなく有効な換気の確立だからである。",
+    "id": 466
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "気管挿管の手技そのものが目的でないのはなぜか。",
+    "back": "新生児蘇生で最も重要なのは有効な換気の確立であり、挿管はその手段の一つにすぎない。手技に固執して換気が止まる時間を延ばさない。",
+    "id": 467
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "挿管の試行中、保温の面で介助者が気をつけることは何か。",
+    "back": "試行中も体温が下がらないよう、ラジアントウォーマの下で保温を続け、濡れたものを取り除いておく。低体温は蘇生の予後を悪くする。",
+    "id": 468
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "2020年版が炭酸水素ナトリウムについて述べた、短時間のCPR中の扱いは何か。",
+    "back": "短時間のCPR中は推奨されないとされていた。この記述を含む治療推奨は2025年のCoSTRで撤回された。",
+    "id": 469
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "2020年版が炭酸水素ナトリウムを有用かもしれないとした限定的な条件は何か。",
+    "back": "遷延する心停止で、十分に換気が確立され、他の治療に反応がない場合に限り有用かもしれないとされた。2025年に撤回。",
+    "id": 470
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "炭酸水素ナトリウムの推奨撤回は、将来の扱いについて何を意味するか。",
+    "back": "新たなエビデンスが得られた場合に再検討される。使用を禁止したのではなく、支持する根拠が現時点でないという意味である。",
+    "id": 471
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "体重3 kgの児にアドレナリン0.1 mg/mLを静注するときの量の範囲は。",
+    "back": "0.01から0.03 mg/kgなので0.03から0.09 mg、すなわち0.3から0.9 mLである。体重を掛けて計算する。",
+    "id": 472
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "体重2 kgの児へ0.01 mg/kgの最小量を0.1 mg/mLで投与するとき、何mLか。",
+    "back": "0.01 mg/kg×2 kg=0.02 mgで、0.1 mg/mLなので0.2 mLになる。mgとmLの換算を取り違えない。",
+    "id": 473
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "体重1.5 kgの児のアドレナリン静注量を0.1 mg/mLで求めると、範囲はどうなるか。",
+    "back": "0.015から0.045 mgで、液量は0.15から0.45 mLとなる。極小の児は少量なので希釈と計量を慎重に行う。",
+    "id": 474
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "体重3.5 kgの児に生理食塩水10 mL/kgで容量負荷を行うとき、量は何mLか。",
+    "back": "10 mL/kg×3.5 kg=35 mLである。アドレナリンのmg/kgとは単位が違うので、取り違えないよう復唱して準備する。",
+    "id": 475
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "アドレナリンの1 mg/mL原液をそのまま使うと、どのような誤りが起こるか。",
+    "back": "希釈後の0.1 mg/mLの10倍の濃度なので、同じ液量を投与すると10倍量になる。必ず希釈後の濃度を確認して準備する。",
+    "id": 476
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "薬剤を準備し投与する間、人工呼吸と胸骨圧迫はどう扱うか。",
+    "back": "投与のために長く止めない。新生児蘇生では、有効な人工呼吸の中断を最低限にすることが基本だからである。",
+    "id": 477
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "蘇生中にアドレナリンなどを投与したとき、記録担当は何を記録するか。",
+    "back": "投与した薬剤の名称、量、時刻を記録する。再投与の判断や蘇生後の引き継ぎ、振り返りに必要な情報になる。",
+    "id": 478
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "アドレナリンや容量負荷の量の計算を、計算担当だけに任せず確認するのはなぜか。",
+    "back": "体重あたりの量の計算ミスが重大な過量や不足につながるため。別の人が復唱し、量と濃度を互いに確認して取り違えを防ぐ。",
+    "id": 479
+  },
+  {
+    "domain": "post_resuscitation_care_and_temperature",
+    "front": "意図しない低体温の復温で、急速復温と緩徐復温を分ける速さの境目は何か。",
+    "back": "急速復温は0.5℃/時以上、緩徐復温は0.5℃/時未満である。どちらが優れるかを示す十分なエビデンスはなく、体温と血糖のモニタリングが重要。",
+    "id": 480
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "蘇生前の物品確認で、酸素と空気を混合して濃度を調整する機器は何か。",
+    "back": "酸素ブレンダ（空気酸素ブレンダ）である。SpO2の目標値に合わせて人工呼吸中の酸素濃度を調整するため、使える状態か事前に確認する。",
+    "id": 481
+  },
+  {
+    "domain": "prenatal_preparation_and_briefing",
+    "front": "病院前救護で普及しつつあるhigh performance CPRはどこの発祥か。",
+    "back": "米国シアトル発祥である。成人では胸骨圧迫が中心だが、新生児蘇生では人工呼吸に置き換えて考える必要がある。",
+    "id": 482
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "在胎34週未満の児の保温で、ラップに加えて強く推奨される頭部への処置は何か。",
+    "back": "キャップなどで頭部を覆うことである。強い推奨（エビデンスの確実性は中等度）で、頭部からの熱喪失を防ぐ目的がある。",
+    "id": 483
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "活気のない正期産児と後期早産児について、ILCORは臍帯早期結紮と比べて何を提案したか。",
+    "back": "結紮前の臍帯ミルキングを提案した（弱い推奨、確実性は低い）。JRCは国内の普及状況から推奨も否定もしない。",
+    "id": 484
+  },
+  {
+    "domain": "immediate_assessment_and_routine_care",
+    "front": "在胎28週未満の児の結紮後の臍帯ミルキングについて、ILCORとJRCの評価の違いは。",
+    "back": "ILCORは推奨するエビデンスが不十分とし、JRCは妥当（優れた医療慣行に関する記述）とした。",
+    "id": 485
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "ラップ使用の推奨の強さは、34週未満の児と母児皮膚接触ができない34週以上の児でどう違うか。",
+    "back": "34週未満は強い推奨（確実性は中等度）、34週以上は弱い推奨（確実性は非常に低い）である。",
+    "id": 486
+  },
+  {
+    "domain": "initial_steps_of_resuscitation",
+    "front": "清明羊水の児にルーチンの口鼻吸引を行わないというILCOR提案の推奨度は。",
+    "back": "弱い推奨で、エビデンスの確実性は非常に低い。JRCは胎便混濁があっても活気のある児に同様に適用するとした。",
+    "id": 487
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "Tピース蘇生器で、吸気圧をかけるときと呼気に切り替えるときの操作は何か。",
+    "back": "T字の開口部（PEEPキャップ）を指でふさぐと送気され、指を離すと呼気になる。圧は事前に設定しておく。",
+    "id": 488
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "自己膨張式バッグに酸素を接続せずに換気すると、児に送られるガスは何か。",
+    "back": "室内気（空気）である。高濃度の酸素が必要なときは酸素を接続し、リザーバを付ける必要がある。",
+    "id": 489
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "自己膨張式バッグと流量膨張式バッグの比較について、ILCORとJRCはどう述べたか。",
+    "back": "比較した研究がなく推奨できるデータはない。JRCは出生時に特定のPPVデバイスを推奨することは困難とした。",
+    "id": 490
+  },
+  {
+    "domain": "positive_pressure_ventilation_and_devices",
+    "front": "人工呼吸中のモニタ担当は、換気担当に何を伝え続けるべきか。",
+    "back": "心拍とSpO2の値と推移を伝える。換気担当は胸の上がりを確認しながら送気し、その情報で換気の有効性を判断する。",
+    "id": 491
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "生後3分でSpO2が65%の児は目標に達しているか。",
+    "back": "達していない。3分の目標は70%以上であり、改善がなければ酸素投与を検討する。",
+    "id": 492
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "人工呼吸中に心拍を評価するとき、換気を長く止めてよいか。",
+    "back": "止めない。自発呼吸再開まで人工呼吸の中断を最低限にする。心電図やSpO2モニタなら換気を続けたまま評価できる。",
+    "id": 493
+  },
+  {
+    "domain": "heart_rate_and_oxygen_monitoring",
+    "front": "分娩室の心拍評価で心電図モニタの使用を提案したILCORの推奨度は。",
+    "back": "弱い推奨で、エビデンスの確実性は低い（Grade 2C）。使えない場合はパルスオキシメータと聴診が代替となる。",
+    "id": 494
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "胸骨圧迫が始まったら、並行して準備を進めておく処置は何か。",
+    "back": "臍帯静脈カテーテルの挿入準備とアドレナリンの準備である。必要に応じて気管挿管や声門上気道デバイスも検討する。",
+    "id": 495
+  },
+  {
+    "domain": "chest_compressions",
+    "front": "心拍が60/分以上に戻り胸骨圧迫を止めた後、酸素濃度はどう調整するか。",
+    "back": "人工呼吸を続け、SpO2が目標値に合うように酸素濃度を調整する。過剰な酸素は避ける。",
+    "id": 496
+  },
+  {
+    "domain": "intubation_and_supraglottic_airway",
+    "front": "出生直後の第1手段として声門上気道デバイスを使ってよいとするILCOR提案の推奨度は。",
+    "back": "弱い推奨（エビデンスの確実性は低い）で、資源があり十分なトレーニングを受けた環境で34週以降の児が対象である。",
+    "id": 497
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "体重4 kgの児にアドレナリン0.1 mg/mLを静注するとき、量の範囲は何mLか。",
+    "back": "0.4から1.2 mLである。0.01から0.03 mg/kgで0.04から0.12 mgとなり、0.1 mg/mLでは0.4から1.2 mLとなる。",
+    "id": 498
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "臍帯静脈カテーテルを入れる血管は臍帯の静脈か動脈か。見分け方は。",
+    "back": "静脈である。静脈は1本で太く壁が薄く、動脈は2本で細く壁が厚い。",
+    "id": 499
+  },
+  {
+    "domain": "drugs_and_volume_expansion",
+    "front": "臍帯静脈カテーテルを接続する前に、カテーテルに行っておくことは何か。",
+    "back": "生理食塩水で満たして空気を除く。空気が血管内に入る空気塞栓を防ぐためである。",
+    "id": 500
+  }
+]
